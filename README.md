@@ -28,6 +28,7 @@ Die Strategietagung vom 16. August 2026 hat vier Werte und ein gemeinsames Zukun
 6. [Strategieprozess als Ablaufdiagramm](diagramme/strategieprozess.md)
 7. [Zusammenhang von Werten, Zukunftsbild und Schwerpunkten](diagramme/strategie-architektur.md)
 8. [Organisations- und Kommunikationsmodell](diagramme/interne-kommunikation-organigramm.md)
+9. [Konzeptbausteine der internen Kommunikation](handlungsfelder/interne-kommunikation.md#vertiefende-konzeptbausteine)
 
 ## Arbeitsbereiche
 

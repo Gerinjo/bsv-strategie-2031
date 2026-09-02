@@ -24,6 +24,13 @@ Die Organisationsstruktur ist kein Bestandteil des Titels eines Schwerpunktfelds
 
 Sandra begleitet alle Schwerpunktfelder themenübergreifend als Inputgeberin und Ansprechpartnerin.
 
+### Vertiefungen zur internen Kommunikation
+
+- [Motive und Führungsprinzipien](interne-kommunikation/01-motive-und-fuehrungsprinzipien.md)
+- [Kommunikationsstandard und Stilmittel](interne-kommunikation/02-kommunikationsstandard.md)
+- [Räumlichkeiten und digitale Hilfsmittel](interne-kommunikation/03-raeume-und-hilfsmittel.md)
+- [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md)
+
 Für ein neues Handlungsfeld sollte ein eigenes Markdown-Dokument mit folgender Struktur angelegt werden:
 
 1. heutige Situation und Quellen

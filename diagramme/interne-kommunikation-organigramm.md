@@ -2,7 +2,7 @@
 
 **Status:** Faktengrundlage mit einem noch zu beratenden Arbeitsvorschlag
 
-**Quellen:** Vereinssatzung, Stand 31.01.2023; Website-Organigramm, Stand 02.09.2026; Klarstellung zum Schwerpunkt Interne Kommunikation vom 02.09.2026
+**Quellen:** Vereinssatzung, Stand 31.01.2023; Website-Organigramm, Stand 02.09.2026; Klarstellungen und ergänzende Beschreibung der Kommunikationspraxis vom 02.09.2026
 
 ## Was die vorhandenen Grundlagen sagen
 
@@ -40,7 +40,7 @@ flowchart TD
         F7[Facility Management]
     end
 
-    F --> OP[Operative Rollen und Teams<br/>z. B. Trainer · Betreuung · Platzwart · Spielbetrieb · Passwesen]
+    F --> OP[Weitere operative Rollen und Teams<br/>z. B. Platzwart · Spielbetrieb · Passwesen]
     EV -.->|personelle Überschneidungen und Beratung| F
     JA -.->|Jugendordnung und Jugendbelange| F2
 
@@ -50,29 +50,38 @@ flowchart TD
 
 Die gestrichelten Verbindungen kennzeichnen Beziehungen, die nicht als einfache Weisungslinie zu verstehen sind. Das Diagramm ist keine neue Geschäftsordnung und begründet keine bislang nicht beschlossenen Befugnisse.
 
-## Vorgeschlagener Weg für die tägliche Kommunikation
+## Arbeitsmodell für die interne Kommunikationskette
 
-**Vorschlag:** Im Alltag soll nicht jede Information über den Vorstand laufen. Zuständige Personen sprechen direkt miteinander; die Hierarchie wird für Verantwortung, Entscheidungen und Eskalation genutzt.
+**Beobachtung vom 02.09.2026:** Die Vorstandschaft trifft sich regelmäßig mit den Abteilungsleitungen. Die Weitergabe verbindlicher Informationen erfolgt anschließend von Ebene zu Ebene. Die Abteilungsleitungen organisieren den Informationsfluss innerhalb ihrer jeweiligen Abteilung.
 
 ```mermaid
-flowchart LR
-    A[Anliegen entsteht<br/>in Rolle oder Team] --> B{Im eigenen<br/>Auftrag lösbar?}
-    B -->|Ja| C[Lösen und Betroffene<br/>informieren]
-    B -->|Nein| D{Nur ein<br/>Funktionsbereich?}
-    D -->|Ja| E[Fach- oder Bereichs-<br/>verantwortung einbeziehen]
-    D -->|Nein| F[Betroffene Bereiche<br/>stimmen sich direkt ab]
-    E --> G{Grundsatz, Finanzen,<br/>Konflikt oder Vereinsinteresse?}
-    F --> G
-    G -->|Nein| C
-    G -->|Ja| H[Geschäftsführenden Vorstand<br/>oder zuständiges Organ einbeziehen]
-    H --> I[Entscheidung und Begründung<br/>zurückmelden und dokumentieren]
+flowchart TD
+    V[Vorstandschaft] <-->|regelmäßige Sitzungen| AL[Abteilungsleitungen]
+
+    AL --> JL[Jugendleitung]
+    AL --> SH[Sportliche Leitung Herren]
+    AL --> SD[Sportliche Leitung Damen]
+    AL --> AH[Repräsentant der Alten Herren]
+
+    JL --> TJ[Trainerteams Jugend]
+    SH --> TH[Trainerteams Herren]
+    SD --> TD[Trainerteams Damen]
+    AH --> TAH[Trainerteams AH]
+
+    TJ --> MJ[Mannschaftsumfeld Jugend]
+    TH --> MH[Mannschaftsumfeld Herren]
+    TD --> MD[Mannschaftsumfeld Damen]
+    TAH --> MAH[Mannschaftsumfeld AH]
 ```
+
+Die Pfeile von oben nach unten zeigen die Weitergabe von Informationen. Rückmeldungen, Bedarfe und Eskalationen laufen über dieselben Ebenen in umgekehrter Richtung. Die genaue formale Zuordnung der dargestellten sportlichen Rollen zu den Satzungsorganen und den sieben Website-Funktionsbereichen ist noch zu bestätigen.
 
 ## Noch zu vervollständigen
 
 Für ein belastbares Ziel-Organigramm fehlen derzeit insbesondere:
 
-- die Zuordnung aller Trainer- und Mannschaftsteams,
+- die formale Bestätigung der Zuordnung von Jugendleitung, sportlichen Leitungen Herren und Damen sowie dem Repräsentanten der Alten Herren,
+- die benannten Trainerteams und nachgelagerten Empfängerkreise je sportlichem Bereich,
 - benannte Gesamtverantwortliche und Stellvertretungen je Funktionsbereich,
 - das genaue Verhältnis zwischen Website-Funktionsbereichen und erweitertem Vorstand,
 - Entscheidungsspielräume der Rollen,

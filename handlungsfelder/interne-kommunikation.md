@@ -13,15 +13,33 @@
 | Schwerpunktteam | Jerome, Michaela, Ole, Ann-Kathrin |
 | Themenübergreifende Inputgeberin und Ansprechpartnerin | Sandra |
 
+## Vertiefende Konzeptbausteine
+
+Dieses Dokument bildet den Einstieg in den Schwerpunkt. Ausführliche Inhalte werden in verlinkten Unterseiten gepflegt:
+
+1. [Motive und Führungsprinzipien](interne-kommunikation/01-motive-und-fuehrungsprinzipien.md)
+2. [Kommunikationsstandard und Stilmittel](interne-kommunikation/02-kommunikationsstandard.md)
+3. [Räumlichkeiten und digitale Hilfsmittel](interne-kommunikation/03-raeume-und-hilfsmittel.md)
+
+Das [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md) stellt die formalen Organe und die vorgeschlagene Kommunikationskette grafisch dar.
+
+## Strategische Begründung
+
+**Vorschlag – Wirkungsziel:** Der BSV überträgt mit einer Aufgabe zugleich die notwendigen Informationen, einen geklärten Entscheidungsspielraum und die Verantwortung für die weitere Kommunikation. Dadurch werden Vorstandschaft und Ehrenamtliche entlastet, Abteilungsleitungen gestärkt und Informationen verlässlich bis in die Mannschaftsumfelder weitergegeben.
+
+**Vorschlag – Führungsgrundsatz:** Die Vorstandschaft führt über die Abteilungsleitungen und nicht an ihnen vorbei. Direkte persönliche Gespräche bleiben ausdrücklich möglich. Verbindliche Aufträge, Prioritäten und Entscheidungen sollen jedoch über die verantwortliche Leitung laufen oder ihr transparent mitgeteilt werden.
+
+Die ausführliche Argumentation, einschließlich Nutzen, Grenzen und Risiken, steht unter [Motive und Führungsprinzipien](interne-kommunikation/01-motive-und-fuehrungsprinzipien.md).
+
 ## Arbeitsdefinition und Grenze
 
-**Klarstellung vom 02.09.2026:** Interne Kommunikation ist die Arbeits- und Führungskommunikation zwischen allen Menschen, die im BSV ein Amt, eine Funktion, eine operative Verantwortung oder eine regelmäßig übernommene Aufgabe haben.
+**Klarstellung vom 02.09.2026:** Interne Kommunikation beschreibt die geregelten Kommunikationsabläufe zwischen den Organisationsebenen. Sie verbindet alle Menschen, die im BSV ein Amt, eine Funktion, eine operative Verantwortung oder eine regelmäßig übernommene Aufgabe haben.
 
 Entscheidend ist nicht, ob jemand Mitglied, gewählt, ehrenamtlich oder gegebenenfalls vergütet tätig ist. Entscheidend ist die Verantwortung für eine Aufgabe im Verein. Zum Kreis gehören insbesondere:
 
 - geschäftsführender und erweiterter Vorstand,
 - Jugendleitung, Abteilungsleitungen und sportliche Leitungen,
-- Trainerinnen, Trainer, Betreuende und Mannschaftsverantwortliche,
+- Trainerinnen, Trainer, Betreuende und Mannschaftsverantwortliche; die Trainerteams sollen im Rollenbild jeweils ihrem sportlichen Bereich **Jugend**, **Aktiver Fußball** oder **AH** zugeordnet werden,
 - Jugend-, Eltern- und andere gewählte Vertretungen,
 - Spielbetrieb, Passwesen und Turnierorganisation,
 - Platzwart, Zeugwart, Hausmeister, Reinigung und Schlüsselmanagement,
@@ -30,6 +48,17 @@ Entscheidend ist nicht, ob jemand Mitglied, gewählt, ehrenamtlich oder gegebene
 - Projektgruppen, Ausschüsse und Schwerpunktteams, solange sie einen Vereinsauftrag bearbeiten.
 
 Eine Person kann dabei in mehreren Rollen kommunizieren. Maßgeblich ist jeweils die Rolle, in der sie handelt.
+
+**Beobachtung vom 02.09.2026:** Trainerinnen und Trainer werden in der Stakeholder- und Kommunikationsstruktur nicht als bereichsübergreifender Sammelblock geführt. Sie sind jeweils Teil des Bereichs, für den sie tätig sind. Für den sportlichen Bereich wurde folgende Kommunikationsstruktur beschrieben:
+
+| Sportlicher Bereich | Vertretungs- oder Leitungsrolle | Zugeordnete Trainerrolle |
+| --- | --- | --- |
+| Jugend | Jugendleitung beziehungsweise zuständige Abteilungsleitung | Jugendtrainerinnen und Jugendtrainer |
+| Aktiver Fußball – Herren | Sportliche Leitung Herren | Trainerinnen und Trainer der Herrenmannschaften |
+| Aktiver Fußball – Damen | Sportliche Leitung Damen | Trainerinnen und Trainer der Damenmannschaften |
+| AH | Repräsentant der Alten Herren | Trainerinnen und Trainer der AH |
+
+Betreuende und Mannschaftsverantwortliche sind jeweils dem Bereich zugeordnet, für den sie tätig sind. Die genaue formale Einordnung der genannten Vertretungs- und Leitungsrollen in die Satzungs- und Website-Struktur ist noch zu bestätigen.
 
 ## Was gehört in diesen Schwerpunkt?
 
@@ -44,11 +73,11 @@ Eine Person kann dabei in mehreren Rollen kommunizieren. Maßgeblich ist jeweils
 - nachvollziehbare Ablage von Ergebnissen und Entscheidungen,
 - Einarbeitung in die für eine Funktion erforderlichen Informationen.
 
-Dabei gibt es drei gleich wichtige Richtungen:
+Die Informationsweitergabe folgt grundsätzlich der Organisationsstruktur von Ebene zu Ebene:
 
-1. **von oben nach unten:** Ziele, Beschlüsse, Rahmen und Prioritäten,
-2. **von unten nach oben:** Lagebilder, Bedarfe, Risiken und Entscheidungsvorlagen,
-3. **horizontal:** direkte Abstimmung zwischen Rollen und Bereichen ohne unnötigen Umweg über den Vorstand.
+1. **von oben nach unten:** Die Vorstandschaft informiert die Abteilungsleitungen. Diese geben die für ihre Abteilung relevanten Informationen an die zuständigen Leitungs-, Vertretungs- und Trainerrollen weiter und organisieren die weitere Verteilung innerhalb ihrer Abteilung.
+2. **von unten nach oben:** Rückmeldungen, Bedarfe, Risiken und Entscheidungsvorlagen werden über dieselben Ebenen zurückgemeldet.
+3. **innerhalb einer Ebene:** Die jeweils verantwortliche Leitung organisiert, wer welche Information erhält, weitergibt und dokumentiert.
 
 ## Was gehört nicht oder nur an der Schnittstelle dazu?
 
@@ -64,6 +93,19 @@ Dabei gibt es drei gleich wichtige Richtungen:
 Die Grenze verläuft damit nicht entlang eines einzelnen Kanals. Eine WhatsApp-Gruppe kann interne Arbeitskommunikation, Mitgliederinformation oder private Unterhaltung enthalten. Entscheidend sind Absenderrolle, Empfängerkreis, Zweck und Verbindlichkeit.
 
 ## Welche Hierarchie gilt im Verein?
+
+### Kommunikationshierarchie in der Praxis
+
+**Beobachtung vom 02.09.2026:** Für die interne Kommunikation bildet die Vorstandschaft die oberste operative Kommunikationsebene. Sie trifft sich regelmäßig mit den Abteilungsleitungen. Die Abteilungsleitungen übernehmen anschließend die Weitergabe in ihre Abteilungen und organisieren dort den weiteren Informationsfluss.
+
+| Ebene | Stakeholder | Rolle im Kommunikationsablauf |
+| --- | --- | --- |
+| 1 | Vorstandschaft | Berät übergreifende Themen und gibt relevante Informationen an die Abteilungsleitungen weiter |
+| 2 | Abteilungsleitungen | Nehmen an den regelmäßigen Sitzungen mit der Vorstandschaft teil, ordnen Informationen für ihren Bereich ein und organisieren deren Weitergabe |
+| 3 | Jugendleitung, sportliche Leitung Herren, sportliche Leitung Damen und Repräsentant der Alten Herren | Übernehmen die bereichsbezogene Koordination und geben relevante Informationen an die jeweiligen Trainerteams weiter |
+| 4 | Trainerinnen und Trainer der Jugend, Herren, Damen und AH | Erhalten die für ihren Bereich notwendigen Informationen und organisieren die weitere Kommunikation in ihrem jeweiligen Mannschaftsumfeld |
+
+Die Mitgliederversammlung bleibt davon unberührt das oberste Vereinsorgan laut Satzung. Die hier beschriebene Vorstandschaft ist die oberste Ebene des laufenden internen Kommunikationsablaufs, nicht das oberste Vereinsorgan.
 
 ### Formale Struktur laut Satzung
 
@@ -94,17 +136,19 @@ Das Organigramm nennt außerdem unterstützende Aufgaben bei der Vereinsführung
 
 Das Zusammenspiel von Satzung, Organigramm und vorgeschlagenem Kommunikationsweg zeigt das [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md).
 
-## Vorschlag für Kommunikations- und Eskalationswege
+## Arbeitsmodell für Kommunikations- und Eskalationswege
 
-**Vorschlag zur Diskussion:** Kommunikation soll der Zuständigkeit folgen, aber möglichst kurze Wege erlauben.
+**Arbeitsdefinition vom 02.09.2026:** Verbindliche Informationen werden entlang der Organisationsstruktur von Ebene zu Ebene weitergegeben. Jede Ebene trägt Verantwortung dafür, die für den eigenen Bereich relevanten Informationen aufzunehmen, einzuordnen und deren weitere Verteilung zu organisieren.
 
-1. Eine operative Frage wird zunächst direkt in der zuständigen Rolle oder im zuständigen Team geklärt.
-2. Betrifft sie mehrere Rollen desselben Funktionsbereichs, koordiniert die verantwortliche Fach- oder Bereichsleitung.
-3. Betrifft sie mehrere Funktionsbereiche, stimmen sich deren Verantwortliche direkt ab und dokumentieren das Ergebnis.
-4. Nur wenn Vereinsinteressen, Finanzen, Grundsatzentscheidungen, Konflikte oder nicht auflösbare Zuständigkeitsfragen betroffen sind, wird der geschäftsführende Vorstand einbezogen.
-5. Entscheidungen, die Satzung oder Ordnung einem anderen Organ zuweisen, werden dort getroffen – insbesondere in Mitgliederversammlung, erweitertem Vorstand oder Jugendausschuss.
+1. Die Vorstandschaft berät regelmäßig mit den Abteilungsleitungen die bereichsübergreifenden und für die Abteilungen relevanten Themen.
+2. Jede Abteilungsleitung klärt, welche Informationen innerhalb ihrer Abteilung weiterzugeben sind.
+3. Im sportlichen Bereich erfolgt die Weitergabe über die Jugendleitung, die sportlichen Leitungen für Herren und Damen sowie den Repräsentanten der Alten Herren.
+4. Diese Rollen informieren die jeweils zugeordneten Trainerteams.
+5. Die Trainerteams organisieren die weitere Information in ihrem Mannschaftsumfeld.
+6. Rückmeldungen, Bedarfe, Risiken und Eskalationen laufen in umgekehrter Richtung über die jeweils nächsthöhere Ebene.
+7. Entscheidungen, die Satzung oder Ordnung einem bestimmten Organ zuweisen, werden weiterhin dort getroffen.
 
-Das ist keine Rangordnung des persönlichen Wertes. Die Hierarchie klärt Verantwortung, Entscheidungskompetenz und Eskalation. Fachwissen soll dort wirksam werden, wo es vorhanden ist.
+Das Modell beschreibt Kommunikationsverantwortung, keine Rangordnung des persönlichen Wertes. Aus der Weitergabekette entstehen keine zusätzlichen, bislang nicht dokumentierten Entscheidungsbefugnisse.
 
 ## Zielbild 2031
 
@@ -129,7 +173,9 @@ Alle Menschen mit einer Aufgabe im BSV wissen:
 ## Offene Fragen
 
 - Wer trägt in jedem der sieben Funktionsbereiche die Gesamtverantwortung?
-- Wo sind Trainerinnen, Trainer und Mannschaftsverantwortliche organisatorisch angebunden?
+- Wie werden Jugend, Aktiver Fußball mit Herren und Damen sowie AH formal mit den sieben Funktionsbereichen des Website-Organigramms verbunden?
+- Welche Personen gehören zur regelmäßigen Sitzungsrunde von Vorstandschaft und Abteilungsleitungen, und in welchem Rhythmus findet sie statt?
+- Über welche verbindlichen Kanäle geben die Abteilungsleitungen Informationen innerhalb ihrer Abteilungen weiter?
 - Welche Befugnisse haben sportliche Leitungen gegenüber Trainerteams, und welche davon sind bereits geregelt?
 - Wie verhalten sich die sieben Website-Bereiche zum satzungsmäßigen erweiterten Vorstand?
 - Welche Aufgaben und Entscheidungsrechte liegen beim Jugendausschuss?
