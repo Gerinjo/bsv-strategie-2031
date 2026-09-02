@@ -72,12 +72,13 @@ Soweit Vertraulichkeit und Schutzinteressen nicht entgegenstehen, wird die zust�
 1. Die Vorstandschaft formuliert Ziele, Prioritäten und vereinsweite Rahmenbedingungen.
 2. Vorstandschaft und Abteilungsleitungen beraten regelmäßig die relevanten Themen.
 3. Abteilungsleitungen übersetzen die Informationen in ihren Bereich und entscheiden innerhalb ihres Auftrags.
-4. Jugendleitung, sportliche Leitungen und der Repräsentant der Alten Herren koordinieren ihre sportlichen Bereiche.
-5. Trainerteams organisieren die Kommunikation in ihrem Mannschaftsumfeld.
-6. Rückmeldungen, Bedarfe und Eskalationen laufen über dieselben Ebenen zurück.
-7. Bereichsübergreifende Abhängigkeiten werden zwischen den zuständigen Leitungen geklärt.
-8. Beschlüsse, Aufgaben und dauerhaft relevantes Wissen werden zentral dokumentiert.
-9. Rollen, Abläufe und Hilfsmittel werden regelmäßig überprüft und weiterentwickelt.
+4. **Vorschlag:** Eine Abteilungsleitung Fußball bündelt die Schnittstellen zwischen Jugend, Herren, Damen und Alten Herren und vertritt die Fußballabteilung in der großen Vorstandsrunde.
+5. Jugendleitung, sportliche Leitungen und die Leitung der Alten Herren koordinieren ihre sportlichen Bereiche.
+6. Trainerteams organisieren die Kommunikation in ihrem Mannschaftsumfeld.
+7. Rückmeldungen, Bedarfe und Eskalationen laufen über dieselben Ebenen zurück.
+8. Bereichsübergreifende Abhängigkeiten werden zwischen den zuständigen Leitungen geklärt.
+9. Beschlüsse, Aufgaben und dauerhaft relevantes Wissen werden zentral dokumentiert.
+10. Rollen, Abläufe und Hilfsmittel werden regelmäßig überprüft und weiterentwickelt.
 
 ## Externe Orientierung
 
@@ -97,4 +98,5 @@ Soweit Vertraulichkeit und Schutzinteressen nicht entgegenstehen, wird die zust�
 
 - [Kommunikationsstandard und Stilmittel](02-kommunikationsstandard.md)
 - [Räumlichkeiten und digitale Hilfsmittel](03-raeume-und-hilfsmittel.md)
+- [Kommunikationsformate und Rhythmen](04-kommunikationsformate-und-rhythmen.md)
 - [Organisations- und Kommunikationsmodell](../../diagramme/interne-kommunikation-organigramm.md)

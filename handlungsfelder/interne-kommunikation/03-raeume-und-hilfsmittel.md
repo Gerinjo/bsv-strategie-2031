@@ -10,6 +10,8 @@ Zurück zur [Übersicht Interne Kommunikation](../interne-kommunikation.md).
 
 **Vorschlag:** Gute interne Kommunikation benötigt geeignete physische Gesprächsorte und einen gemeinsamen digitalen Arbeitsraum. Digitale Hilfsmittel sollen persönliche Kommunikation ergänzen, ehrenamtliche Arbeit entlasten und dauerhaft relevantes Wissen auffindbar machen.
 
+**Fakt, Vereinssatzung Stand 31.01.2023, § 9:** Versammlungen und Sitzungen der Vereinsorgane dürfen in Präsenz, virtuell oder als Kombination aus beiden Formen stattfinden. Damit ist eine geeignete Ausstattung für hybride Teilnahme nicht nur eine Komfortfrage, sondern unterstützt eine bereits satzungsmäßig vorgesehene Sitzungsform. [Quelle: Vereinssatzung des BSV Nordstern](https://bsvnordstern.de/dokumente/bsv-nordstern-satzung-2023.pdf)
+
 ## Benötigte Gesprächs- und Arbeitsorte
 
 **Vorschlag:** Es müssen nicht zwingend neue Räume geschaffen werden. Vorhandene Räume können mehrere Zwecke erfüllen, wenn Ausstattung, Verfügbarkeit und Vertraulichkeit ausreichen.
@@ -89,4 +91,5 @@ Zurück zur [Übersicht Interne Kommunikation](../interne-kommunikation.md).
 
 - [Motive und Führungsprinzipien](01-motive-und-fuehrungsprinzipien.md)
 - [Kommunikationsstandard und Stilmittel](02-kommunikationsstandard.md)
+- [Kommunikationsformate und Rhythmen](04-kommunikationsformate-und-rhythmen.md)
 - [Organisations- und Kommunikationsmodell](../../diagramme/interne-kommunikation-organigramm.md)

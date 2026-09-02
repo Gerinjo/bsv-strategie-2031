@@ -20,6 +20,7 @@ Dieses Dokument bildet den Einstieg in den Schwerpunkt. Ausführliche Inhalte we
 1. [Motive und Führungsprinzipien](interne-kommunikation/01-motive-und-fuehrungsprinzipien.md)
 2. [Kommunikationsstandard und Stilmittel](interne-kommunikation/02-kommunikationsstandard.md)
 3. [Räumlichkeiten und digitale Hilfsmittel](interne-kommunikation/03-raeume-und-hilfsmittel.md)
+4. [Kommunikationsformate und Rhythmen](interne-kommunikation/04-kommunikationsformate-und-rhythmen.md)
 
 Das [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md) stellt die formalen Organe und die vorgeschlagene Kommunikationskette grafisch dar.
 
@@ -96,13 +97,13 @@ Die Grenze verläuft damit nicht entlang eines einzelnen Kanals. Eine WhatsApp-G
 
 ### Kommunikationshierarchie in der Praxis
 
-**Beobachtung vom 02.09.2026:** Für die interne Kommunikation bildet die Vorstandschaft die oberste operative Kommunikationsebene. Sie trifft sich regelmäßig mit den Abteilungsleitungen. Die Abteilungsleitungen übernehmen anschließend die Weitergabe in ihre Abteilungen und organisieren dort den weiteren Informationsfluss.
+**Beobachtung, ergänzt am 03.09.2026:** Für die interne Kommunikation bildet die Vorstandschaft die oberste operative Kommunikationsebene. In der großen Vorstandsrunde beraten der geschäftsführende Vorstand und die weiteren Mitglieder des erweiterten Vorstands einschließlich der Abteilungsleitungen. Die Abteilungsleitungen übernehmen anschließend die Weitergabe in ihre Abteilungen und organisieren dort den weiteren Informationsfluss.
 
 | Ebene | Stakeholder | Rolle im Kommunikationsablauf |
 | --- | --- | --- |
-| 1 | Vorstandschaft | Berät übergreifende Themen und gibt relevante Informationen an die Abteilungsleitungen weiter |
-| 2 | Abteilungsleitungen | Nehmen an den regelmäßigen Sitzungen mit der Vorstandschaft teil, ordnen Informationen für ihren Bereich ein und organisieren deren Weitergabe |
-| 3 | Jugendleitung, sportliche Leitung Herren, sportliche Leitung Damen und Repräsentant der Alten Herren | Übernehmen die bereichsbezogene Koordination und geben relevante Informationen an die jeweiligen Trainerteams weiter |
+| 1 | Geschäftsführender Vorstand | Führt den Verein und bringt vereinsweite Themen, Rahmenbedingungen und Entscheidungen in die große Vorstandsrunde ein |
+| 2 | Erweiterter Vorstand einschließlich Abteilungsleitungen | Berät die bereichsübergreifenden Themen und organisiert die Weitergabe in die jeweiligen Abteilungen |
+| 3 | Jugendleitung, sportliche Leitung Herren, sportliche Leitung Damen und Leitung beziehungsweise Repräsentanz der Alten Herren | Übernehmen die bereichsbezogene Koordination und geben relevante Informationen an die jeweiligen Trainerteams weiter |
 | 4 | Trainerinnen und Trainer der Jugend, Herren, Damen und AH | Erhalten die für ihren Bereich notwendigen Informationen und organisieren die weitere Kommunikation in ihrem jeweiligen Mannschaftsumfeld |
 
 Die Mitgliederversammlung bleibt davon unberührt das oberste Vereinsorgan laut Satzung. Die hier beschriebene Vorstandschaft ist die oberste Ebene des laufenden internen Kommunikationsablaufs, nicht das oberste Vereinsorgan.
@@ -134,21 +135,37 @@ Das Organigramm nennt außerdem unterstützende Aufgaben bei der Vereinsführung
 
 **Beobachtung:** Das Website-Organigramm macht die fachlichen Verantwortungsbereiche gut sichtbar, bildet aber nicht die gesamte Satzungsstruktur ab. Mitgliederversammlung, erweiterter Vorstand und Jugendausschuss sind dort nicht als eigene Ebenen dargestellt. Auch Trainerteams, Mannschaftsbetreuende und einzelne operative Unterrollen erscheinen nur teilweise. Es ist deshalb ein funktionales Übersichtsbild, aber noch keine vollständige Entscheidungs- und Kommunikationsordnung.
 
+**Beobachtung, Website-Stand 03.09.2026:** Im Fachbereich Fußball sind sportliche Leitungen für Herren, Frauen und Alte Herren sowie Spielbetrieb und Passwesen benannt. Eine übergeordnete Abteilungsleitung Fußball ist im veröffentlichten Organigramm nicht ausgewiesen.
+
+**Vorschlag:** Eine Abteilungsleitung Fußball wird als gemeinsame Koordinations- und Kommunikationsrolle geprüft. Sie wäre der Jugendleitung, den sportlichen Leitungen Herren und Damen sowie der Leitung der Alten Herren im Kommunikationsmodell übergeordnet. In der abteilungsbezogenen Kommunikationsstruktur läge sie auf einer Ebene mit den Leitungen von Gymnastik, Bogensport und Wandern. Ob nur diese Rolle oder zusätzlich einzelne sportliche Leitungen an der großen Vorstandsrunde teilnehmen, ist durch das zuständige Gremium zu entscheiden.
+
 Das Zusammenspiel von Satzung, Organigramm und vorgeschlagenem Kommunikationsweg zeigt das [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md).
 
 ## Arbeitsmodell für Kommunikations- und Eskalationswege
 
 **Arbeitsdefinition vom 02.09.2026:** Verbindliche Informationen werden entlang der Organisationsstruktur von Ebene zu Ebene weitergegeben. Jede Ebene trägt Verantwortung dafür, die für den eigenen Bereich relevanten Informationen aufzunehmen, einzuordnen und deren weitere Verteilung zu organisieren.
 
-1. Die Vorstandschaft berät regelmäßig mit den Abteilungsleitungen die bereichsübergreifenden und für die Abteilungen relevanten Themen.
+1. Der geschäftsführende Vorstand berät in der großen Vorstandsrunde mit den weiteren Mitgliedern des erweiterten Vorstands und den Abteilungsleitungen die bereichsübergreifenden und für die Abteilungen relevanten Themen.
 2. Jede Abteilungsleitung klärt, welche Informationen innerhalb ihrer Abteilung weiterzugeben sind.
-3. Im sportlichen Bereich erfolgt die Weitergabe über die Jugendleitung, die sportlichen Leitungen für Herren und Damen sowie den Repräsentanten der Alten Herren.
+3. **Vorschlag:** Im Fußball bündelt eine Abteilungsleitung Fußball die abteilungsübergreifenden Themen und koordiniert Jugendleitung, sportliche Leitungen für Herren und Damen sowie die Leitung der Alten Herren.
 4. Diese Rollen informieren die jeweils zugeordneten Trainerteams.
 5. Die Trainerteams organisieren die weitere Information in ihrem Mannschaftsumfeld.
 6. Rückmeldungen, Bedarfe, Risiken und Eskalationen laufen in umgekehrter Richtung über die jeweils nächsthöhere Ebene.
 7. Entscheidungen, die Satzung oder Ordnung einem bestimmten Organ zuweisen, werden weiterhin dort getroffen.
 
 Das Modell beschreibt Kommunikationsverantwortung, keine Rangordnung des persönlichen Wertes. Aus der Weitergabekette entstehen keine zusätzlichen, bislang nicht dokumentierten Entscheidungsbefugnisse.
+
+Die vorgeschlagenen Austauschfrequenzen und Sitzungsformate stehen unter [Kommunikationsformate und Rhythmen](interne-kommunikation/04-kommunikationsformate-und-rhythmen.md).
+
+## Priorität: Übergang in den Erwachsenenfußball
+
+**Beobachtung vom 03.09.2026:** Der Übergang der A-Junioren zu den Herren und der B-Juniorinnen zu den Damen wird als besonders kritische Phase für die Bindung an den Sport beschrieben. Für die B-Juniorinnen wird ein noch höheres Abbruchrisiko wahrgenommen. Belastbare vereinsbezogene Zahlen liegen im Repository derzeit nicht vor.
+
+**Vorschlag – hohe Priorität:** Der BSV entwickelt ein eigenes Integrationsmodell für beide Übergänge, beobachtet dessen Wirkung aktiv und benennt dafür verantwortliche Rollen. Für minderjährige Spielerinnen und Spieler müssen Schutz, Beteiligung, altersgerechte Begleitung und verlässliche Ansprechwege ausdrücklich geregelt werden.
+
+**Fakt, Vereinssatzung Stand 31.01.2023, § 5:** Natürliche Personen zählen bis zum vollendeten 18. Lebensjahr zur Vereinsjugend. Daraus folgt nicht automatisch eine konkrete Mannschafts- oder Abteilungszuordnung; die organisatorischen Folgen für den Übergang sind mit Jugendordnung, Schutzkonzept und den geltenden Verbandsbestimmungen abzugleichen.
+
+Die Ausarbeitung ist als [Initiative Übergang A-Junioren und B-Juniorinnen](../initiativen/uebergang-a-junioren-b-juniorinnen.md) angelegt.
 
 ## Zielbild 2031
 
@@ -174,6 +191,8 @@ Alle Menschen mit einer Aufgabe im BSV wissen:
 
 - Wer trägt in jedem der sieben Funktionsbereiche die Gesamtverantwortung?
 - Wie werden Jugend, Aktiver Fußball mit Herren und Damen sowie AH formal mit den sieben Funktionsbereichen des Website-Organigramms verbunden?
+- Soll eine Abteilungsleitung Fußball eingerichtet werden, welche Aufgaben und Entscheidungsspielräume erhält sie und durch welches Gremium wird sie bestimmt?
+- Wer nimmt künftig für den Fußball an der großen Vorstandsrunde teil?
 - Welche Personen gehören zur regelmäßigen Sitzungsrunde von Vorstandschaft und Abteilungsleitungen, und in welchem Rhythmus findet sie statt?
 - Über welche verbindlichen Kanäle geben die Abteilungsleitungen Informationen innerhalb ihrer Abteilungen weiter?
 - Welche Befugnisse haben sportliche Leitungen gegenüber Trainerteams, und welche davon sind bereits geregelt?

@@ -2,7 +2,7 @@
 
 **Status:** Faktengrundlage mit einem noch zu beratenden Arbeitsvorschlag
 
-**Quellen:** Vereinssatzung, Stand 31.01.2023; Website-Organigramm, Stand 02.09.2026; Klarstellungen und ergänzende Beschreibung der Kommunikationspraxis vom 02.09.2026
+**Quellen:** Vereinssatzung, Stand 31.01.2023; Website-Organigramm, geprüft am 03.09.2026; Klarstellungen und ergänzende Beschreibungen der Kommunikationspraxis vom 02. und 03.09.2026
 
 ## Was die vorhandenen Grundlagen sagen
 
@@ -52,16 +52,21 @@ Die gestrichelten Verbindungen kennzeichnen Beziehungen, die nicht als einfache 
 
 ## Arbeitsmodell für die interne Kommunikationskette
 
-**Beobachtung vom 02.09.2026:** Die Vorstandschaft trifft sich regelmäßig mit den Abteilungsleitungen. Die Weitergabe verbindlicher Informationen erfolgt anschließend von Ebene zu Ebene. Die Abteilungsleitungen organisieren den Informationsfluss innerhalb ihrer jeweiligen Abteilung.
+**Beobachtung, ergänzt am 03.09.2026:** In der großen Vorstandsrunde beraten der geschäftsführende Vorstand und die weiteren Mitglieder des erweiterten Vorstands einschließlich der Abteilungsleitungen. Die Weitergabe verbindlicher Informationen erfolgt anschließend von Ebene zu Ebene. Die Abteilungsleitungen organisieren den Informationsfluss innerhalb ihrer jeweiligen Abteilung.
 
 ```mermaid
 flowchart TD
-    V[Vorstandschaft] <-->|regelmäßige Sitzungen| AL[Abteilungsleitungen]
+    GV[Geschäftsführender Vorstand] <-->|große Vorstandsrunde| EV[Erweiterter Vorstand<br/>einschließlich Abteilungsleitungen]
 
-    AL --> JL[Jugendleitung]
-    AL --> SH[Sportliche Leitung Herren]
-    AL --> SD[Sportliche Leitung Damen]
-    AL --> AH[Repräsentant der Alten Herren]
+    EV -.->|Vorschlag| AF[Abteilungsleitung Fußball]
+    EV --> AG[Abteilungsleitung Gymnastik]
+    EV --> AB[Abteilungsleitung Bogensport]
+    EV --> AW[Abteilungsleitung Wandern]
+
+    AF --> JL[Jugendleitung]
+    AF --> SH[Sportliche Leitung Herren]
+    AF --> SD[Sportliche Leitung Damen]
+    AF --> AH[Leitung Alte Herren]
 
     JL --> TJ[Trainerteams Jugend]
     SH --> TH[Trainerteams Herren]
@@ -74,13 +79,14 @@ flowchart TD
     TAH --> MAH[Mannschaftsumfeld AH]
 ```
 
-Die Pfeile von oben nach unten zeigen die Weitergabe von Informationen. Rückmeldungen, Bedarfe und Eskalationen laufen über dieselben Ebenen in umgekehrter Richtung. Die genaue formale Zuordnung der dargestellten sportlichen Rollen zu den Satzungsorganen und den sieben Website-Funktionsbereichen ist noch zu bestätigen.
+Die Pfeile von oben nach unten zeigen die Weitergabe von Informationen. Rückmeldungen, Bedarfe und Eskalationen laufen über dieselben Ebenen in umgekehrter Richtung. Die Abteilungsleitung Fußball ist ein Vorschlag und keine bestehende oder beschlossene Funktion. Ihre formale Einordnung und die genaue Besetzung der großen Vorstandsrunde sind noch zu klären.
 
 ## Noch zu vervollständigen
 
 Für ein belastbares Ziel-Organigramm fehlen derzeit insbesondere:
 
-- die formale Bestätigung der Zuordnung von Jugendleitung, sportlichen Leitungen Herren und Damen sowie dem Repräsentanten der Alten Herren,
+- die Entscheidung über eine Abteilungsleitung Fußball einschließlich Auftrag, Wahl beziehungsweise Benennung und Entscheidungsspielraum,
+- die formale Zuordnung von Jugendleitung, sportlichen Leitungen Herren und Damen sowie der Leitung der Alten Herren,
 - die benannten Trainerteams und nachgelagerten Empfängerkreise je sportlichem Bereich,
 - benannte Gesamtverantwortliche und Stellvertretungen je Funktionsbereich,
 - das genaue Verhältnis zwischen Website-Funktionsbereichen und erweitertem Vorstand,

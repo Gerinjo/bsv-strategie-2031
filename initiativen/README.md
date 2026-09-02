@@ -13,3 +13,7 @@ Neue Initiativen werden aus [`_vorlage.md`](_vorlage.md) angelegt. Der Dateiname
 - in Umsetzung
 - abgeschlossen
 - beendet
+
+## Aktuelle Initiativen und Ideen
+
+- [Übergang A-Junioren und B-Juniorinnen in den Erwachsenenfußball](uebergang-a-junioren-b-juniorinnen.md) – Idee, hohe Priorität vorgeschlagen

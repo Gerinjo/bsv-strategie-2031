@@ -119,4 +119,5 @@ Die verantwortliche Rolle darf Informationen adressatengerecht zusammenfassen. B
 
 - [Motive und Führungsprinzipien](01-motive-und-fuehrungsprinzipien.md)
 - [Räumlichkeiten und digitale Hilfsmittel](03-raeume-und-hilfsmittel.md)
+- [Kommunikationsformate und Rhythmen](04-kommunikationsformate-und-rhythmen.md)
 - [Organisations- und Kommunikationsmodell](../../diagramme/interne-kommunikation-organigramm.md)

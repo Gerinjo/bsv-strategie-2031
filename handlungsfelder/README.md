@@ -29,6 +29,7 @@ Sandra begleitet alle Schwerpunktfelder themenübergreifend als Inputgeberin und
 - [Motive und Führungsprinzipien](interne-kommunikation/01-motive-und-fuehrungsprinzipien.md)
 - [Kommunikationsstandard und Stilmittel](interne-kommunikation/02-kommunikationsstandard.md)
 - [Räumlichkeiten und digitale Hilfsmittel](interne-kommunikation/03-raeume-und-hilfsmittel.md)
+- [Kommunikationsformate und Rhythmen](interne-kommunikation/04-kommunikationsformate-und-rhythmen.md)
 - [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md)
 
 Für ein neues Handlungsfeld sollte ein eigenes Markdown-Dokument mit folgender Struktur angelegt werden:
