@@ -24,9 +24,10 @@ Aus der Strategietagung und der nachfolgenden Klarstellung ergeben sich fünf Sc
 
 ## 4. Interne Kommunikation
 
-**Vorläufige Wirkungsrichtung:** Vereinsbereiche arbeiten über nachvollziehbare Informations- und Entscheidungswege zusammen. Die dafür notwendige Organisationsstruktur wird als Grundlage dieses Schwerpunkts geklärt.
+**Vorläufige Wirkungsrichtung:** Alle Menschen mit einer Funktion oder Aufgabe im BSV arbeiten über nachvollziehbare Informations-, Entscheidungs- und Eskalationswege zusammen. Dazu zählen insbesondere Vereinsführung, Leitungen, Trainerteams, operative Dienste, Verwaltung und beauftragte Projektgruppen. Die dafür notwendige Organisationsstruktur wird als Grundlage dieses Schwerpunkts geklärt.
 
 - [Arbeitsdokument interne Kommunikation](../handlungsfelder/interne-kommunikation.md)
+- [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md)
 
 ## 5. Sponsoring
 

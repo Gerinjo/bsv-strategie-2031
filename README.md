@@ -27,10 +27,11 @@ Die Strategietagung vom 16. August 2026 hat vier Werte und ein gemeinsames Zukun
 5. [Roadmap](strategie/04-roadmap.md)
 6. [Strategieprozess als Ablaufdiagramm](diagramme/strategieprozess.md)
 7. [Zusammenhang von Werten, Zukunftsbild und Schwerpunkten](diagramme/strategie-architektur.md)
+8. [Organisations- und Kommunikationsmodell](diagramme/interne-kommunikation-organigramm.md)
 
 ## Arbeitsbereiche
 
-- [Handlungsfelder](handlungsfelder/README.md): die vier vereinbarten Schwerpunkte mit Befunden, Aufträgen und offenen Fragen
+- [Handlungsfelder](handlungsfelder/README.md): die fünf vereinbarten Schwerpunkte mit Befunden, Aufträgen und offenen Fragen
 - [Initiativen](initiativen/README.md): mögliche und beschlossene Umsetzungsvorhaben
 - [Entscheidungen](entscheidungen/README.md): nachvollziehbare strategische Beschlüsse
 - [Protokolle](protokolle/README.md): Workshops, Interviews und Sitzungen
