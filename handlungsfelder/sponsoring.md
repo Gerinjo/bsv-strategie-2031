@@ -4,6 +4,13 @@
 **Erste Teamzuordnung:** Jerome, Felix, Claudia
 **Quelle:** [Strategietagung vom 16.08.2026](../protokolle/2026-08-16-strategietagung.md)
 
+## Mitarbeitende und Ansprechpersonen
+
+| Funktion | Personen |
+| --- | --- |
+| Schwerpunktteam | Jerome, Felix, Claudia |
+| Themenübergreifende Inputgeberin und Ansprechpartnerin | Sandra |
+
 ## Ausgangspunkt
 
 Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als strategischer Schwerpunkt ausgewählt. Eine gemeinsame Zielsetzung und ein abgestimmtes Leistungsversprechen sind noch zu erarbeiten.

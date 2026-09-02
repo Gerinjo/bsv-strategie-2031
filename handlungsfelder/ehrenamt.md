@@ -4,6 +4,15 @@
 **Teamzuordnung:** nach der Trennung von der externen Kommunikation noch zu bestätigen
 **Quelle:** [Strategietagung vom 16.08.2026 und nachträgliche Klarstellung](../protokolle/2026-08-16-strategietagung.md)
 
+## Mitarbeitende und Ansprechpersonen
+
+| Funktion | Personen |
+| --- | --- |
+| Vorläufiges Schwerpunktteam | Julian, David, Michaela, Ole |
+| Themenübergreifende Inputgeberin und Ansprechpartnerin | Sandra |
+
+Die vier Teammitglieder stammen aus der ursprünglichen gemeinsamen Zuordnung „Mitgliederkommunikation und Ehrenamt“. Ihre endgültige Zuordnung zu Ehrenamt und externer Kommunikation ist noch zu bestätigen.
+
 ## Ausgangspunkt
 
 Die Gewinnung, Einbindung und Entlastung freiwillig engagierter Personen ist ein eigenständiges Zukunftsthema. Verantwortung soll auf mehrere Köpfe verteilt werden, damit Engagement zugänglich, wirksam und langfristig tragfähig wird.

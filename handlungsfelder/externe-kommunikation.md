@@ -4,6 +4,15 @@
 **Teamzuordnung:** nach der Trennung vom Ehrenamt noch zu bestätigen
 **Quelle:** [Strategietagung vom 16.08.2026 und nachträgliche Klarstellung](../protokolle/2026-08-16-strategietagung.md)
 
+## Mitarbeitende und Ansprechpersonen
+
+| Funktion | Personen |
+| --- | --- |
+| Vorläufiges Schwerpunktteam | Julian, David, Michaela, Ole |
+| Themenübergreifende Inputgeberin und Ansprechpartnerin | Sandra |
+
+Die vier Teammitglieder stammen aus der ursprünglichen gemeinsamen Zuordnung „Mitgliederkommunikation und Ehrenamt“. Ihre endgültige Zuordnung zu externer Kommunikation und Ehrenamt ist noch zu bestätigen.
+
 ## Ausgangspunkt
 
 Der BSV möchte seine Wahrnehmung nach außen verbessern und sein Vereinsleben sowie positive Entwicklungen sichtbarer machen. Externe Kommunikation richtet sich an Öffentlichkeit, Interessierte, zukünftige Mitglieder, Zuschauer, Partner und das lokale Umfeld.

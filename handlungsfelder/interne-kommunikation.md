@@ -4,6 +4,13 @@
 **Erste Teamzuordnung laut Protokoll:** Jerome, Michaela, Ole, Ann-Kathrin
 **Quelle:** [Strategietagung vom 16.08.2026 und nachträgliche Klarstellung](../protokolle/2026-08-16-strategietagung.md)
 
+## Mitarbeitende und Ansprechpersonen
+
+| Funktion | Personen |
+| --- | --- |
+| Schwerpunktteam | Jerome, Michaela, Ole, Ann-Kathrin |
+| Themenübergreifende Inputgeberin und Ansprechpartnerin | Sandra |
+
 ## Ausgangspunkt
 
 Die Kommunikation und Zusammenarbeit innerhalb des Vereins sollen offener, transparenter und strukturierter werden. Interne Kommunikation folgt den tatsächlichen Rollen, Verantwortlichkeiten und Entscheidungswegen. Deshalb ist die Organisationsstruktur eine Grundlage dieses Schwerpunkts, ohne Bestandteil seines Titels zu sein.

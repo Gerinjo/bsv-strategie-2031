@@ -3,6 +3,13 @@
 **Status:** Schwerpunktteam noch offen
 **Quelle:** [Strategietagung vom 16.08.2026](../protokolle/2026-08-16-strategietagung.md)
 
+## Mitarbeitende und Ansprechpersonen
+
+| Funktion | Person oder Status |
+| --- | --- |
+| Schwerpunktteam | noch offen |
+| Themenübergreifende Inputgeberin und Ansprechpartnerin | Sandra |
+
 ## Ausgangspunkt
 
 Sportanlage und Infrastruktur wurden in der Vereinsumfrage und im Zukunftsbild wiederholt als wichtiges Thema benannt. Verschiedene offene Punkte befinden sich bereits in Bearbeitung; eine zusammenhängende Bestandsaufnahme und Priorisierung sind noch nicht dokumentiert.
