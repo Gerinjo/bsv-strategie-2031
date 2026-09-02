@@ -59,7 +59,7 @@ Wie soll der BSV im Jahr 2031 erlebt werden – von Mitgliedern, Kindern und Elt
 
 ## Verhältnis zu den Schwerpunkten
 
-Das Zukunftsbild ist breiter als die aktuelle Bearbeitung. Für die nächste Arbeitsphase wurden daraus vier Schwerpunkte priorisiert: Infrastruktur, Mitgliederkommunikation und Ehrenamt, interne Kommunikation und Organisationsstruktur sowie Sponsoring.
+Das Zukunftsbild ist breiter als die aktuelle Bearbeitung. Für die nächste Arbeitsphase werden fünf Schwerpunkte verfolgt: Infrastruktur, externe Kommunikation, Ehrenamt, interne Kommunikation und Sponsoring. Die Organisationsstruktur wird innerhalb der internen Kommunikation bearbeitet, aber nicht im Titel des Schwerpunktfelds geführt.
 
 ## Zu klärende Fragen
 

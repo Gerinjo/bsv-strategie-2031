@@ -6,16 +6,17 @@ Hier werden Ausgangslage, Zielbild, strategische Ziele, Entscheidungen und Initi
 
 ## Aktueller Stand
 
-**Phase 2: Vier strategische Schwerpunkte durch die Schwerpunktteams konkretisieren**
+**Phase 2: Fünf strategische Schwerpunkte konkretisieren**
 
-Die Strategietagung vom 16. August 2026 hat vier Werte, ein gemeinsames Zukunftsbild und vier Schwerpunktthemen als Arbeitsgrundlage festgelegt. Die Schwerpunktteams bereiten dazu erste Entwürfe und Lösungsansätze für den nächsten Strategietermin am 4. Oktober 2026 vor. Ein formaler Strategiebeschluss ist damit noch nicht dokumentiert.
+Die Strategietagung vom 16. August 2026 hat vier Werte und ein gemeinsames Zukunftsbild als Arbeitsgrundlage entwickelt. Die zunächst gebündelten Themen wurden am 2. September 2026 in fünf eigenständige Schwerpunkte gegliedert. Die Schwerpunktteams bereiten dazu erste Entwürfe und Lösungsansätze für den nächsten Strategietermin am 4. Oktober 2026 vor. Ein formaler Strategiebeschluss ist damit noch nicht dokumentiert.
 
 ## Strategische Schwerpunkte
 
 1. [Infrastruktur](handlungsfelder/infrastruktur.md)
-2. [Mitgliederkommunikation und Ehrenamt](handlungsfelder/mitgliederkommunikation-und-ehrenamt.md)
-3. [Interne Kommunikation und Organisationsstruktur](handlungsfelder/interne-kommunikation-und-organisationsstruktur.md)
-4. [Sponsoring](handlungsfelder/sponsoring.md)
+2. [Externe Kommunikation](handlungsfelder/externe-kommunikation.md)
+3. [Ehrenamt](handlungsfelder/ehrenamt.md)
+4. [Interne Kommunikation](handlungsfelder/interne-kommunikation.md)
+5. [Sponsoring](handlungsfelder/sponsoring.md)
 
 ## Einstieg
 

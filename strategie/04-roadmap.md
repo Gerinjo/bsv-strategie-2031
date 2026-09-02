@@ -2,14 +2,14 @@
 
 **Status:** Aktualisiert nach der Strategietagung vom 16.08.2026
 
-Die Strategietagung hat Werte, Zukunftsbild und vier Schwerpunkte als Arbeitsgrundlage entwickelt. Bis zum nächsten Strategietermin konkretisieren die Schwerpunktteams ihre Themen.
+Die Strategietagung hat Werte, Zukunftsbild und erste Themenbündel als Arbeitsgrundlage entwickelt. Nach der Klarstellung vom 02.09.2026 werden fünf Schwerpunkte konkretisiert.
 
 | Phase | Ergebnis | Status |
 | --- | --- | --- |
 | 1. Vorbereitung | Auftrag, Beteiligte und Vorgehen sind geklärt | begonnen |
 | 2. Analyse | Erkenntnisse aus Vereinsumfrage und Diskussion | begonnen |
 | 3. Zielbild | vier Werte und gemeinsames Zukunftsbild 2031 | Arbeitsstand vorhanden |
-| 4. Priorisierung | vier strategische Schwerpunkte | Arbeitsstand vorhanden |
+| 4. Priorisierung | fünf strategische Schwerpunkte | Arbeitsstand vorhanden |
 | 5. Beschluss | formale Entscheidung und veröffentlichbare Fassung | offen |
 | 6. Umsetzung | Verantwortlichkeiten, Meilensteine und Ressourcen | offen |
 | 7. Überprüfung | regelmäßiger Fortschritts- und Wirkungstermin | offen |
@@ -18,7 +18,7 @@ Die Strategietagung hat Werte, Zukunftsbild und vier Schwerpunkte als Arbeitsgru
 
 - weitere Teammitglieder gewinnen
 - erste Abstimmungen innerhalb der Schwerpunktteams durchführen
-- die vier Themen und ihre Ziele konkretisieren
+- die fünf Themen und ihre Ziele konkretisieren
 - erste Ideen, Entwürfe und Lösungsansätze vorbereiten
 
 ## Nächster Strategietermin

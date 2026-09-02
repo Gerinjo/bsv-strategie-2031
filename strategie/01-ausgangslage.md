@@ -13,7 +13,7 @@ Dieses Dokument übernimmt die bei der Strategietagung diskutierten Erkenntnisse
 - **Vereinsziele:** Gemeinsame Ziele sollen gegenüber einzelnen Bereichsinteressen stärker in den Mittelpunkt rücken.
 - **Sponsoring:** Sponsoring soll als eigener strategischer Schwerpunkt weiterentwickelt werden.
 
-Aus diesen Erkenntnissen und dem Zukunftsbild wurden vier [strategische Schwerpunkte](../handlungsfelder/README.md) abgeleitet.
+Aus diesen Erkenntnissen und dem Zukunftsbild wurden fünf [strategische Schwerpunkte](../handlungsfelder/README.md) für die weitere Bearbeitung gegliedert.
 
 ## Weiter zu klärendes Vereinsprofil
 

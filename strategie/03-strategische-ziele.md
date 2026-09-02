@@ -2,7 +2,7 @@
 
 **Status:** Konkretisierung durch die Schwerpunktteams
 
-Die Strategietagung hat vier Schwerpunkte für die weitere Bearbeitung festgelegt. Die folgenden Wirkungsrichtungen sind aus dem Protokoll abgeleitet, aber noch keine messbaren oder formal beschlossenen Ziele. Die Schwerpunktteams sollen sie konkretisieren.
+Aus der Strategietagung und der nachfolgenden Klarstellung ergeben sich fünf Schwerpunkte für die weitere Bearbeitung. Die folgenden Wirkungsrichtungen sind Arbeitsstände, aber noch keine messbaren oder formal beschlossenen Ziele. Die Schwerpunktteams sollen sie konkretisieren.
 
 ## 1. Infrastruktur
 
@@ -10,19 +10,25 @@ Die Strategietagung hat vier Schwerpunkte für die weitere Bearbeitung festgeleg
 
 - [Arbeitsdokument Infrastruktur](../handlungsfelder/infrastruktur.md)
 
-## 2. Mitgliederkommunikation und Ehrenamt
+## 2. Externe Kommunikation
 
-**Vorläufige Wirkungsrichtung:** Mitglieder sind besser informiert, erleben den BSV als gemeinsamen Verein und finden leichter passende Möglichkeiten, sich zu engagieren.
+**Vorläufige Wirkungsrichtung:** Der BSV vermittelt nach außen ein klares, positives und gemeinsames Bild und erreicht seine relevanten Zielgruppen verlässlich.
 
-- [Arbeitsdokument Mitgliederkommunikation und Ehrenamt](../handlungsfelder/mitgliederkommunikation-und-ehrenamt.md)
+- [Arbeitsdokument externe Kommunikation](../handlungsfelder/externe-kommunikation.md)
 
-## 3. Interne Kommunikation und Organisationsstruktur
+## 3. Ehrenamt
 
-**Vorläufige Wirkungsrichtung:** Bereiche arbeiten über klare Schnittstellen zusammen, Verantwortung ist sinnvoll verteilt und strategische Führung ist von operativer Arbeit unterscheidbar.
+**Vorläufige Wirkungsrichtung:** Mehr Menschen finden einen passenden Zugang zum Ehrenamt; Verantwortung ist breiter verteilt und Engagierte werden verlässlich unterstützt.
 
-- [Arbeitsdokument interne Kommunikation und Organisationsstruktur](../handlungsfelder/interne-kommunikation-und-organisationsstruktur.md)
+- [Arbeitsdokument Ehrenamt](../handlungsfelder/ehrenamt.md)
 
-## 4. Sponsoring
+## 4. Interne Kommunikation
+
+**Vorläufige Wirkungsrichtung:** Vereinsbereiche arbeiten über nachvollziehbare Informations- und Entscheidungswege zusammen. Die dafür notwendige Organisationsstruktur wird als Grundlage dieses Schwerpunkts geklärt.
+
+- [Arbeitsdokument interne Kommunikation](../handlungsfelder/interne-kommunikation.md)
+
+## 5. Sponsoring
 
 **Vorläufige Wirkungsrichtung:** Der BSV entwickelt langfristige, transparente und für Verein und Partner wertvolle Sponsoringbeziehungen.
 

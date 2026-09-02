@@ -6,7 +6,7 @@
 
 ## Ausgangspunkt
 
-Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als einer der vier strategischen Schwerpunkte ausgewählt. Eine gemeinsame Zielsetzung und ein abgestimmtes Leistungsversprechen sind noch zu erarbeiten.
+Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als strategischer Schwerpunkt ausgewählt. Eine gemeinsame Zielsetzung und ein abgestimmtes Leistungsversprechen sind noch zu erarbeiten.
 
 ## Bezug zu Werten und Zukunftsbild
 

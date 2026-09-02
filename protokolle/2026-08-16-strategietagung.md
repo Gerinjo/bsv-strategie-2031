@@ -59,7 +59,7 @@ Mehr Menschen sollen für ehrenamtliche Tätigkeiten gewonnen, Verantwortung bre
 
 Ein gemeinsames Erscheinungsbild, positive Kommunikation, attraktive Heimspiele, ein weiterentwickeltes Zuschauerkonzept, eine bessere Tribüne und gemeinsame Veranstaltungen sollen Wahrnehmung und Vereinsleben stärken.
 
-## Vier strategische Schwerpunktthemen
+## Ursprüngliche Themenbündel im Ergebnisprotokoll
 
 Aus Vereinsumfrage und Zukunftsbild wurden folgende Themen für die weitere Bearbeitung abgeleitet:
 
@@ -68,7 +68,19 @@ Aus Vereinsumfrage und Zukunftsbild wurden folgende Themen für die weitere Bear
 3. **Interne Kommunikation und Organisationsstruktur**
 4. **Sponsoring**
 
-## Schwerpunktteams
+## Nachträgliche Klarstellung der Schwerpunktstruktur
+
+Für die weitere Strategiedokumentation wurden die ursprünglichen Bündel am 02.09.2026 wie folgt präzisiert:
+
+1. **Infrastruktur** bleibt ein eigener Schwerpunkt.
+2. **Mitgliederkommunikation** wird als **externe Kommunikation** geführt.
+3. **Ehrenamt** wird als eigener Schwerpunkt geführt.
+4. **Interne Kommunikation** bleibt ein eigener Schwerpunkt. Die Organisationsstruktur ist eine notwendige Grundlage und folgt diesem Thema, wird aber nicht im Titel aufgeführt.
+5. **Sponsoring** bleibt ein eigener Schwerpunkt.
+
+Diese Klarstellung verändert nicht das unveränderte Originalprotokoll, sondern ordnet die weitere Bearbeitung im Strategie-Repository.
+
+## Ursprüngliche Teamzuordnung laut Ergebnisprotokoll
 
 | Schwerpunkt | Erste Zuordnung laut Protokoll |
 | --- | --- |
@@ -78,6 +90,8 @@ Aus Vereinsumfrage und Zukunftsbild wurden folgende Themen für die weitere Bear
 | Sponsoring | Jerome, Felix, Claudia |
 
 Sandra steht den Teams themenübergreifend als Inputgeberin und Ansprechpartnerin zur Verfügung.
+
+Durch die Trennung von externer Kommunikation und Ehrenamt ist die Zuordnung der ursprünglich gemeinsamen Teammitglieder zu den beiden neuen Schwerpunkten noch zu bestätigen.
 
 ## Auftrag an die Schwerpunktteams
 

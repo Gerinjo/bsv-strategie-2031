@@ -1,6 +1,6 @@
 # Strategiearchitektur nach der Strategietagung
 
-Das Diagramm trennt die vier orientierenden Werte, das breite Zukunftsbild und die vier aktuell priorisierten Arbeitsschwerpunkte. Die Schwerpunktteams sollen daraus konkrete Ziele und Initiativen entwickeln.
+Das Diagramm trennt die vier orientierenden Werte, das breite Zukunftsbild und die fünf aktuell priorisierten Arbeitsschwerpunkte. Die Schwerpunktteams sollen daraus konkrete Ziele und Initiativen entwickeln.
 
 ```mermaid
 flowchart TD
@@ -23,12 +23,14 @@ flowchart TD
 
     Z --> B
     B --> S1[Infrastruktur]
-    B --> S2[Mitgliederkommunikation und Ehrenamt]
-    B --> S3[Interne Kommunikation und Organisationsstruktur]
-    B --> S4[Sponsoring]
+    B --> S2[Externe Kommunikation]
+    B --> S3[Ehrenamt]
+    B --> S4[Interne Kommunikation]
+    B --> S5[Sponsoring]
 
     S1 --> I[Konkrete Ziele und Initiativen]
     S2 --> I
     S3 --> I
     S4 --> I
+    S5 --> I
 ```
