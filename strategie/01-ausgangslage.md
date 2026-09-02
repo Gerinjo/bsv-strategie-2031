@@ -1,10 +1,21 @@
 # Ausgangslage
 
-**Status:** Entwurf
+**Status:** Arbeitsstand nach der Strategietagung vom 16.08.2026
 
-Dieses Dokument sammelt zunächst Fragen und zu prüfende Themen. Belastbare Aussagen werden erst nach Sichtung vorhandener Unterlagen und Gesprächen mit den relevanten Gruppen ergänzt.
+Dieses Dokument übernimmt die bei der Strategietagung diskutierten Erkenntnisse aus der Vereinsumfrage. Es handelt sich um eine zusammengefasste Wahrnehmung der Teilnehmenden; die zugrunde liegenden Umfragedaten und weitere Vereinskennzahlen müssen noch als Quellen ergänzt und geprüft werden.
 
-## Vereinsprofil
+## Zentrale Erkenntnisse aus Vereinsumfrage und Diskussion
+
+- **Sportanlage und Infrastruktur:** Mehrere offene Themen befinden sich bereits in Bearbeitung. Zuständigkeiten und Gesamtpriorisierung sind noch zu klären.
+- **Freiwillige Helfer und Ehrenamt:** Gewinnung, Einbindung und Entlastung engagierter Personen wurden als zentrale Zukunftsfragen benannt.
+- **Kommunikation und Informationsfluss:** Der Informationstransfer innerhalb des Vereins und nach außen soll verbessert werden. Als erste mögliche Ansätze wurden ein monatlicher Newsletter und eine gemeinsame Jahresplanung genannt.
+- **Material:** Bedarf, Verfügbarkeit und Zuständigkeiten wurden als weiter zu bearbeitendes Thema identifiziert.
+- **Vereinsziele:** Gemeinsame Ziele sollen gegenüber einzelnen Bereichsinteressen stärker in den Mittelpunkt rücken.
+- **Sponsoring:** Sponsoring soll als eigener strategischer Schwerpunkt weiterentwickelt werden.
+
+Aus diesen Erkenntnissen und dem Zukunftsbild wurden vier [strategische Schwerpunkte](../handlungsfelder/README.md) abgeleitet.
+
+## Weiter zu klärendes Vereinsprofil
 
 - **Offene Frage:** Welche Rolle soll der BSV langfristig in Radolfzell und seinem Umfeld einnehmen?
 - **Offene Frage:** Welche Angebote, Mannschaften und Zielgruppen prägen den Verein heute?
@@ -38,10 +49,15 @@ Dieses Dokument sammelt zunächst Fragen und zu prüfende Themen. Belastbare Aus
 - Auffindbarkeit von Angeboten und Ansprechpartnern
 - Datenschutz, Verantwortlichkeiten und dauerhafte Pflege
 
-## Nächste Erhebungsschritte
+## Nächste Erhebungs- und Prüfungsschritte
 
+- [ ] Originaldaten und Auswertung der Vereinsumfrage ablegen oder belastbar verlinken
 - [ ] vorhandene Vereinsunterlagen und Zahlen zusammentragen
 - [ ] relevante Interessengruppen festlegen
 - [ ] Interview- und Workshopfragen vorbereiten
 - [ ] Stärken, Probleme, Chancen und Risiken mit Quellen dokumentieren
 - [ ] zentrale strategische Spannungsfelder benennen
+
+## Quelle
+
+[Ergebnisprotokoll der Strategietagung vom 16.08.2026](../protokolle/2026-08-16-strategietagung.md)

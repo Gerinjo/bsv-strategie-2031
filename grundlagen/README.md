@@ -15,3 +15,10 @@ Dieser Bereich enthält oder verlinkt die überprüfbaren Grundlagen der Strateg
 - Rohdaten mit personenbezogenen oder vertraulichen Inhalten werden nicht eingecheckt.
 - Abgeleitete Kennzahlen beschreiben ihre Berechnung nachvollziehbar.
 - Unsichere oder unvollständige Daten werden sichtbar gekennzeichnet.
+
+## Quellenregister
+
+| Quelle | Stand | Verwendung |
+| --- | --- | --- |
+| [Ergebnisprotokoll Strategietagung](../protokolle/2026-08-16-strategietagung.md) | 16.08.2026 | Werte, Zukunftsbild, Schwerpunkte und Arbeitsaufträge |
+| [Originalprotokoll als PDF](../protokolle/originale/2026-08-16-strategietagung-bsv-nordstern.pdf) | Dokumenttitel: 16.08.2026 | unveränderte Primärquelle |

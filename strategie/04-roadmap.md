@@ -1,18 +1,31 @@
 # Roadmap zur Vereinsstrategie 2031
 
-**Status:** Entwurf
+**Status:** Aktualisiert nach der Strategietagung vom 16.08.2026
 
-Die Termine werden nach Klärung von Auftrag, Beteiligten und Gremien ergänzt.
+Die Strategietagung hat Werte, Zukunftsbild und vier Schwerpunkte als Arbeitsgrundlage entwickelt. Bis zum nächsten Strategietermin konkretisieren die Schwerpunktteams ihre Themen.
 
 | Phase | Ergebnis | Status |
 | --- | --- | --- |
 | 1. Vorbereitung | Auftrag, Beteiligte und Vorgehen sind geklärt | begonnen |
-| 2. Analyse | abgestimmte Beschreibung der Ausgangslage | offen |
-| 3. Zielbild | verständliches Leitbild für 2031 | offen |
-| 4. Priorisierung | wenige strategische Ziele und bewertete Initiativen | offen |
+| 2. Analyse | Erkenntnisse aus Vereinsumfrage und Diskussion | begonnen |
+| 3. Zielbild | vier Werte und gemeinsames Zukunftsbild 2031 | Arbeitsstand vorhanden |
+| 4. Priorisierung | vier strategische Schwerpunkte | Arbeitsstand vorhanden |
 | 5. Beschluss | formale Entscheidung und veröffentlichbare Fassung | offen |
 | 6. Umsetzung | Verantwortlichkeiten, Meilensteine und Ressourcen | offen |
 | 7. Überprüfung | regelmäßiger Fortschritts- und Wirkungstermin | offen |
+
+## Aktuelle Arbeitsphase bis 04.10.2026
+
+- weitere Teammitglieder gewinnen
+- erste Abstimmungen innerhalb der Schwerpunktteams durchführen
+- die vier Themen und ihre Ziele konkretisieren
+- erste Ideen, Entwürfe und Lösungsansätze vorbereiten
+
+## Nächster Strategietermin
+
+- **Datum:** 04.10.2026
+- **Uhrzeit:** 09:00–13:00 Uhr
+- **Ziel:** Erste Entwürfe und Ideen vorstellen, gemeinsam weiterentwickeln und konkrete nächste Schritte festlegen.
 
 ## Noch festzulegen
 
@@ -22,3 +35,7 @@ Die Termine werden nach Klärung von Auftrag, Beteiligten und Gremien ergänzt.
 - Workshop- und Entscheidungstermine
 - Form der Mitgliederbeteiligung
 - Rhythmus der Fortschrittskontrolle
+
+## Quelle
+
+[Ergebnisprotokoll der Strategietagung vom 16.08.2026](../protokolle/2026-08-16-strategietagung.md)

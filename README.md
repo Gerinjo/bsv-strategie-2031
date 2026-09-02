@@ -6,9 +6,16 @@ Hier werden Ausgangslage, Zielbild, strategische Ziele, Entscheidungen und Initi
 
 ## Aktueller Stand
 
-**Phase 1: Ausgangslage verstehen und Strategieprozess vorbereiten**
+**Phase 2: Vier strategische Schwerpunkte durch die Schwerpunktteams konkretisieren**
 
-Noch ist keine strategische Richtung beschlossen. Formulierungen in diesem Repository sind Arbeitsstände, solange sie nicht ausdrücklich als Entscheidung dokumentiert wurden.
+Die Strategietagung vom 16. August 2026 hat vier Werte, ein gemeinsames Zukunftsbild und vier Schwerpunktthemen als Arbeitsgrundlage festgelegt. Die Schwerpunktteams bereiten dazu erste Entwürfe und Lösungsansätze für den nächsten Strategietermin am 4. Oktober 2026 vor. Ein formaler Strategiebeschluss ist damit noch nicht dokumentiert.
+
+## Strategische Schwerpunkte
+
+1. [Infrastruktur](handlungsfelder/infrastruktur.md)
+2. [Mitgliederkommunikation und Ehrenamt](handlungsfelder/mitgliederkommunikation-und-ehrenamt.md)
+3. [Interne Kommunikation und Organisationsstruktur](handlungsfelder/interne-kommunikation-und-organisationsstruktur.md)
+4. [Sponsoring](handlungsfelder/sponsoring.md)
 
 ## Einstieg
 
@@ -18,14 +25,20 @@ Noch ist keine strategische Richtung beschlossen. Formulierungen in diesem Repos
 4. [Strategische Ziele](strategie/03-strategische-ziele.md)
 5. [Roadmap](strategie/04-roadmap.md)
 6. [Strategieprozess als Ablaufdiagramm](diagramme/strategieprozess.md)
+7. [Zusammenhang von Werten, Zukunftsbild und Schwerpunkten](diagramme/strategie-architektur.md)
 
 ## Arbeitsbereiche
 
-- [Handlungsfelder](handlungsfelder/README.md): Themen, Befunde, Chancen und Zielkonflikte
+- [Handlungsfelder](handlungsfelder/README.md): die vier vereinbarten Schwerpunkte mit Befunden, Aufträgen und offenen Fragen
 - [Initiativen](initiativen/README.md): mögliche und beschlossene Umsetzungsvorhaben
 - [Entscheidungen](entscheidungen/README.md): nachvollziehbare strategische Beschlüsse
 - [Protokolle](protokolle/README.md): Workshops, Interviews und Sitzungen
 - [Grundlagen](grundlagen/README.md): Zahlen, Quellen und vorhandene Unterlagen
+
+## Zentrale Quelle
+
+- [Strukturiertes Ergebnisprotokoll der Strategietagung vom 16.08.2026](protokolle/2026-08-16-strategietagung.md)
+- [Unverändertes Originalprotokoll als PDF](protokolle/originale/2026-08-16-strategietagung-bsv-nordstern.pdf)
 
 ## Grundprinzipien
 
