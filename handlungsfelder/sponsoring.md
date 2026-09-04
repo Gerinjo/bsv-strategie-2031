@@ -51,4 +51,8 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 - [Social-Media-Suite: SVG-Upload und Gewichtung der Sponsorarten](https://github.com/Gerinjo/bsv-socialmedia/commit/0e0c3f6)
 - [Website: gewichtete Übersicht und geänderte Sponsoring-Navigation](https://github.com/Gerinjo/bsv-website/commit/4e64fd3)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Das Sponsoring-Menü zeigt „Partner“ als gelb markierten Standard-Reiter. Die Sponsoring-Pakete bleiben zunächst ausgeblendet und werden erst nach Auswahl des Reiters „Pakete“ angezeigt. Ein Klick auf den Hauptmenüpunkt „Sponsoring“ führt weiterhin direkt zur Partnerübersicht.
+
+- [Website: Partner als Standardansicht im Sponsoring-Menü](https://github.com/Gerinjo/bsv-website/commit/816af43)
+
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
