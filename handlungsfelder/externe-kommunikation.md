@@ -47,6 +47,10 @@ Informationen und Zusammenarbeit innerhalb des Vereins gehören zum Schwerpunkt 
 
 - [Website: neue Gliederung der Jugendmannschaften](https://github.com/Gerinjo/bsv-website/commit/5acb710)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Auf der Seite „Junge Sterne“ werden die vier Mannschaftsbereiche in drei Spalten dargestellt; der Entwicklungsbereich steht direkt unter dem Leistungsbereich. Im Jugend-Mega-Menü ist die Trainersuche dem eigenen Abschnitt „Unterstützung gesucht“ zugeordnet.
+
+- [Website: korrigiertes Bereichslayout und eigener Unterstützungsblock](https://github.com/Gerinjo/bsv-website/commit/038ea51)
+
 ## Offene Fragen
 
 - Wen möchte der BSV außerhalb des bestehenden Vereinsumfelds erreichen?
