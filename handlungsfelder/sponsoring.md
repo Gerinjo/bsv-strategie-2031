@@ -36,3 +36,14 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 - Welche Gegenleistungen kann der BSV zuverlässig und einheitlich anbieten?
 - Wie werden Akquise, Vereinbarung, Betreuung und Verlängerung organisiert?
 - Wie greifen Sponsoring, Website, Social Media, Spieltage und Veranstaltungen ineinander?
+
+## Technische Umsetzung
+
+**Fakt (Arbeitsstand 04.09.2026):** Die technische Zuordnung von Werbepartnern wurde so angepasst, dass Website-Bereiche und Mannschaften ausschließlich ihre direkten Zuordnungen erhalten. Eine Zuordnung zur Jugendabteilung wird nicht mehr automatisch auf alle Jugendmannschaften vererbt.
+
+- [Website: Jugend-Sponsorenauswahl, Bereichs-/Sponsorartenfilter und direkte Mannschaftszuordnung](https://github.com/Gerinjo/bsv-website/commit/e9f1e36)
+- [Social-Media-Suite: direkte Website-Zuordnungen und zusätzliche Abteilungsziele](https://github.com/Gerinjo/bsv-socialmedia/commit/2ee53b2)
+
+**Beobachtung:** Auf der Jugendseite können nur so viele unterschiedliche Partner zufällig angezeigt werden, wie aktuell für die Jugendabteilung oder deren Mannschaften freigegeben sind; die Darstellung ist auf höchstens vier begrenzt.
+
+**Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
