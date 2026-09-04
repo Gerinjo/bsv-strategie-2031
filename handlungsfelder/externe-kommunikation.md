@@ -37,6 +37,12 @@ Der BSV möchte seine Wahrnehmung nach außen verbessern und sein Vereinsleben s
 
 Informationen und Zusammenarbeit innerhalb des Vereins gehören zum Schwerpunkt [interne Kommunikation](interne-kommunikation.md). Die Gewinnung und Begleitung freiwillig Engagierter gehört zum Schwerpunkt [Ehrenamt](ehrenamt.md).
 
+## Technische Umsetzung
+
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die Geschichte über Mariam Oboladze wird auf der mobilen Landingpage „Junge Sterne“ als kompakter Textbutton ohne Bild und Vorschautext dargestellt. Auf Tablet- und Desktopansichten bleibt die ausführliche Bildkarte erhalten.
+
+- [Website: kompakte Jugendgeschichte in der Mobilansicht](https://github.com/Gerinjo/bsv-website/commit/bb3ab8c)
+
 ## Offene Fragen
 
 - Wen möchte der BSV außerhalb des bestehenden Vereinsumfelds erreichen?
