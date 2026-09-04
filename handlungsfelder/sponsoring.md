@@ -46,4 +46,9 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 **Beobachtung:** Auf der Jugendseite können nur so viele unterschiedliche Partner zufällig angezeigt werden, wie aktuell für die Jugendabteilung oder deren Mannschaften freigegeben sind; die Darstellung ist auf höchstens vier begrenzt.
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Sponsorarten erhalten neben ihrer Sortierung eine Gewichtung mit den Stufen „Standard“, „Hervorgehoben“ und „Premium“. Die Website nutzt diese Gewichtung für Reihenfolge, Kartengröße und Logopräsenz. Der Hauptmenüpunkt „Sponsoring“ führt künftig zur Werbepartnerübersicht; die Sponsoring-Pakete bleiben als eigene Menüpunkte erreichbar. Der Logo-Upload der Verwaltung unterstützt zusätzlich sicher geprüfte SVG-Dateien, die für die Ausspielung in PNG-Varianten umgewandelt werden.
+
+- [Social-Media-Suite: SVG-Upload und Gewichtung der Sponsorarten](https://github.com/Gerinjo/bsv-socialmedia/commit/0e0c3f6)
+- [Website: gewichtete Übersicht und geänderte Sponsoring-Navigation](https://github.com/Gerinjo/bsv-website/commit/4e64fd3)
+
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
