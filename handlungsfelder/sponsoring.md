@@ -75,8 +75,8 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Website: leere Bereiche aus dem Werbepartnerfilter entfernt](https://github.com/Gerinjo/bsv-website/commit/84e33f8)
 
-**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die Werbepartnerübersicht verwendet auf Desktop-Bildschirmen ein Raster mit vier Partnerkarten pro Zeile. Auf mittleren Bildschirmen werden zwei Karten und auf Mobilgeräten eine Karte pro Zeile dargestellt. Sponsorarten mit weniger als vier Partnern bleiben ohne leere Platzhalter linksbündig.
+**Fakt (veröffentlicht am 04.09.2026):** Die Werbepartnerübersicht verwendet auf Desktop-Bildschirmen ein Raster mit vier Partnerkarten pro Zeile. Auf mittleren Bildschirmen werden zwei Karten und auf Mobilgeräten eine Karte pro Zeile dargestellt. Sponsorarten mit weniger als vier Partnern bleiben ohne leere Platzhalter linksbündig.
 
-- [Website: vier Werbepartner pro Zeile](https://github.com/Gerinjo/bsv-website/commit/a1148cd)
+- [Website: vier Werbepartner pro Zeile](https://github.com/Gerinjo/bsv-website/commit/3984a81)
 
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
