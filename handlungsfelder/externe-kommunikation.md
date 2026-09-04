@@ -43,9 +43,9 @@ Informationen und Zusammenarbeit innerhalb des Vereins gehören zum Schwerpunkt 
 
 - [Website: kompakte Jugendgeschichte in der Mobilansicht](https://github.com/Gerinjo/bsv-website/commit/bb3ab8c)
 
-**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die Mannschaftsnavigation der „Jungen Sterne“ ist in die vier Bereiche Leistungsbereich, Entwicklungsbereich, Kinderfußball und Juniorinnen gegliedert. C2 und D3 gehören zum Entwicklungsbereich; die E-, F- und G-Junioren werden als Kinderfußball geführt.
+**Fakt (veröffentlicht am 04.09.2026):** Die Mannschaftsnavigation der „Jungen Sterne“ ist in die vier Bereiche Leistungsbereich, Entwicklungsbereich, Kinderfußball und Juniorinnen gegliedert. C2 und D3 gehören zum Entwicklungsbereich; die E-, F- und G-Junioren werden als Kinderfußball geführt.
 
-- [Website: neue Gliederung der Jugendmannschaften](https://github.com/Gerinjo/bsv-website/commit/1adddad)
+- [Website: neue Gliederung der Jugendmannschaften](https://github.com/Gerinjo/bsv-website/commit/5acb710)
 
 ## Offene Fragen
 
