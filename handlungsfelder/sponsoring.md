@@ -79,4 +79,8 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Website: vier Werbepartner pro Zeile](https://github.com/Gerinjo/bsv-website/commit/3984a81)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Das zuvor veröffentlichte Vierer-Raster wird durch drei Partnerkarten pro Zeile ersetzt. Dadurch nutzen Sponsorarten mit drei Partnern die verfügbare Breite vollständig und die einzelnen Logos sowie Partnernamen erhalten mehr Raum. Tablet und Mobil bleiben bei zwei beziehungsweise einer Karte pro Zeile.
+
+- [Website: Drei-Spalten-Raster für Werbepartner](https://github.com/Gerinjo/bsv-website/commit/fbba918)
+
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
