@@ -71,4 +71,8 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Website: vollbreite Sponsorenzeilen im Jugend-Megamenü](https://github.com/Gerinjo/bsv-website/commit/78d3b06)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Der Bereichsfilter der Werbepartnerübersicht bietet nur Bereiche an, denen mindestens ein veröffentlichter Partner zugeordnet ist. „Alle Bereiche“ bleibt unabhängig davon verfügbar. Leere Bereiche werden nicht als auswählbare Option gezeigt.
+
+- [Website: leere Bereiche aus dem Werbepartnerfilter entfernt](https://github.com/Gerinjo/bsv-website/commit/84e33f8)
+
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
