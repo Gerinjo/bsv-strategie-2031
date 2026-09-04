@@ -63,7 +63,7 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Website: vollständige Jugend-Landingpage mit ergänzendem Sponsorbereich](https://github.com/Gerinjo/bsv-website/commit/6d7be8c)
 
-**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Das Megamenü „Junge Sterne“ zeigt unterhalb des Jugendbildes drei bei jedem Seitenaufruf zufällig ausgewählte Werbepartner. Berücksichtigt werden direkte Zuordnungen zur Jugendabteilung und zu einzelnen Jugendmannschaften. Der Link „Alle Jugendsponsoren“ führt zur Werbepartnerübersicht mit vorausgewähltem Filter „Jugendabteilung“.
+**Fakt (veröffentlicht am 04.09.2026):** Das Megamenü „Junge Sterne“ zeigt unterhalb des Jugendbildes drei bei jedem Seitenaufruf zufällig ausgewählte Werbepartner. Berücksichtigt werden direkte Zuordnungen zur Jugendabteilung und zu einzelnen Jugendmannschaften. Der Link „Alle Jugendsponsoren“ führt zur Werbepartnerübersicht mit vorausgewähltem Filter „Jugendabteilung“.
 
 - [Website: Jugendsponsoren im Megamenü](https://github.com/Gerinjo/bsv-website/commit/f50091b)
 

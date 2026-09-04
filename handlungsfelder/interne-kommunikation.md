@@ -137,6 +137,11 @@ Das Organigramm nennt außerdem unterstützende Aufgaben bei der Vereinsführung
 
 **Beobachtung, Website-Stand 03.09.2026:** Im Fachbereich Fußball sind sportliche Leitungen für Herren, Frauen und Alte Herren sowie Spielbetrieb und Passwesen benannt. Eine übergeordnete Abteilungsleitung Fußball ist im veröffentlichten Organigramm nicht ausgewiesen.
 
+**Fakt (vom Nutzer am 04.09.2026 mitgeteilt; Website veröffentlicht am 04.09.2026):** Hieu Ho wechselt bei den U13-Junioren von der D3 zur D1 und ist dort als Co-Trainerin eingetragen. Bei der D1 wird keine weitere Co-Trainerrolle gesucht; für die D3 ist ein Trainer ausreichend. Die öffentlichen Teamseiten, die Mannschaftsauswahl im Mitgliedsantrag und die Trainerbörse wurden entsprechend aktualisiert.
+
+- [Website: Wechsel von Hieu Ho zur D1](https://github.com/Gerinjo/bsv-website/commit/1f1ab04)
+- [Website: erledigte D1- und D3-Traineranzeigen entfernt](https://github.com/Gerinjo/bsv-website/commit/931d437)
+
 **Vorschlag:** Eine Abteilungsleitung Fußball wird als gemeinsame Koordinations- und Kommunikationsrolle geprüft. Sie wäre der Jugendleitung, den sportlichen Leitungen Herren und Damen sowie der Leitung der Alten Herren im Kommunikationsmodell übergeordnet. In der abteilungsbezogenen Kommunikationsstruktur läge sie auf einer Ebene mit den Leitungen von Gymnastik, Bogensport und Wandern. Ob nur diese Rolle oder zusätzlich einzelne sportliche Leitungen an der großen Vorstandsrunde teilnehmen, ist durch das zuständige Gremium zu entscheiden.
 
 Das Zusammenspiel von Satzung, Organigramm und vorgeschlagenem Kommunikationsweg zeigt das [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md).
