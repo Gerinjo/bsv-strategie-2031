@@ -51,6 +51,10 @@ Informationen und Zusammenarbeit innerhalb des Vereins gehören zum Schwerpunkt 
 
 - [Website: korrigiertes Bereichslayout und eigener Unterstützungsblock](https://github.com/Gerinjo/bsv-website/commit/038ea51)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Im Jugend-Mega-Menü nimmt die Jugendabteilung die linke Spalte ein. Rechts davon teilen sich „Geschichten“ und „Unterstützung gesucht“ den Bereich vertikal; die Mannschaftsbereiche beginnen darunter.
+
+- [Website: Ausrichtung des Unterstützungsblocks im Jugend-Mega-Menü](https://github.com/Gerinjo/bsv-website/commit/235fbf6)
+
 ## Offene Fragen
 
 - Wen möchte der BSV außerhalb des bestehenden Vereinsumfelds erreichen?
