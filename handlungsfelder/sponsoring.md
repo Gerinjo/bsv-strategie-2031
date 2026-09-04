@@ -59,4 +59,8 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Social-Media-Suite: priorisierte Sponsoren-Akkordeons und Live-Filter](https://github.com/Gerinjo/bsv-socialmedia/commit/28d30e9)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die Landingpage „Junge Sterne“ zeigt Jugendleitung und Jugendgeschichte oberhalb des Sponsorbereichs. Unterhalb der Sponsoren folgen die Mannschaften in den drei Gruppen „Leistungssport“, „Breitensport“ und „Juniorinnen“. Der Sponsorbereich ergänzt damit die bestehenden Jugendinhalte, statt sie zu ersetzen.
+
+- [Website: vollständige Jugend-Landingpage mit ergänzendem Sponsorbereich](https://github.com/Gerinjo/bsv-website/commit/6d7be8c)
+
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
