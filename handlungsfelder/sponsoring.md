@@ -55,7 +55,7 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Website: Partner als Standardansicht im Sponsoring-Menü](https://github.com/Gerinjo/bsv-website/commit/816af43)
 
-**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die Sponsorenverwaltung gliedert Werbepartner in Akkordeons. Partner mit noch nicht freigegebenem Logo stehen alphabetisch sortiert, aufgeklappt und sichtbar priorisiert oben. Freigegebene Partner folgen alphabetisch sortiert in kompakter, geschlossener Darstellung. Ein darüber angeordneter Live-Filter reduziert beide Gruppen während der Eingabe.
+**Fakt (veröffentlicht am 04.09.2026):** Die Sponsorenverwaltung gliedert Werbepartner in Akkordeons. Partner mit noch nicht freigegebenem Logo stehen alphabetisch sortiert, aufgeklappt und sichtbar priorisiert oben. Freigegebene Partner folgen alphabetisch sortiert in kompakter, geschlossener Darstellung. Ein darüber angeordneter Live-Filter reduziert beide Gruppen während der Eingabe.
 
 - [Social-Media-Suite: priorisierte Sponsoren-Akkordeons und Live-Filter](https://github.com/Gerinjo/bsv-socialmedia/commit/28d30e9)
 
