@@ -67,4 +67,8 @@ Sponsoring wurde in der Vereinsumfrage als eigenes Thema und anschließend als s
 
 - [Website: Jugendsponsoren im Megamenü](https://github.com/Gerinjo/bsv-website/commit/f50091b)
 
+**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die drei Werbepartner im Jugend-Megamenü werden jeweils über die volle Breite der rechten Menüspalte und untereinander dargestellt. Die Höhe der Logos ist begrenzt, damit unterschiedliche Logoformate innerhalb ihrer jeweiligen Zeile bleiben.
+
+- [Website: vollbreite Sponsorenzeilen im Jugend-Megamenü](https://github.com/Gerinjo/bsv-website/commit/78d3b06)
+
 **Offene Frage:** Welche Werbepartner sollen künftig Bogensport, Gymnastik oder Wandergruppe direkt zugeordnet werden?
