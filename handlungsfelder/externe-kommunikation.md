@@ -39,7 +39,7 @@ Informationen und Zusammenarbeit innerhalb des Vereins gehören zum Schwerpunkt 
 
 ## Technische Umsetzung
 
-**Fakt (lokal umgesetzt, noch nicht veröffentlicht, 04.09.2026):** Die Geschichte über Mariam Oboladze wird auf der mobilen Landingpage „Junge Sterne“ als kompakter Textbutton ohne Bild und Vorschautext dargestellt. Auf Tablet- und Desktopansichten bleibt die ausführliche Bildkarte erhalten.
+**Fakt (veröffentlicht am 04.09.2026):** Die Geschichte über Mariam Oboladze wird auf der mobilen Landingpage „Junge Sterne“ als kompakter Textbutton ohne Bild und Vorschautext dargestellt. Auf Tablet- und Desktopansichten bleibt die ausführliche Bildkarte erhalten.
 
 - [Website: kompakte Jugendgeschichte in der Mobilansicht](https://github.com/Gerinjo/bsv-website/commit/bb3ab8c)
 
