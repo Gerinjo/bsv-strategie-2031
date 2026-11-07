@@ -46,9 +46,9 @@
 
 **Fakt – Dokumentinhalt:** Eine Mädchenbeauftragte ist in der vorgelegten Fassung nicht ausdrücklich aufgeführt. Ein eigener Ausschusssitz oder ein besonderes Wahlverfahren für diese Rolle ist darin nicht geregelt.
 
-**Vorschlag:** Mädchen an der Ausgestaltung und Personensuche beteiligen und einen ergänzenden Auftrag über die zuständigen Vereinsorgane klären. Die Möglichkeit von Unterausschüssen nach § 6 kann für einzelne Vorhaben geprüft werden; sie begründet keinen automatischen zusätzlichen Ausschusssitz für eine beauftragte Person.
+**Fakt – gewünschte Ausgestaltung laut ergänzender Fragerunde vom 07.11.2026:** Der Jugendausschuss soll die Mädchenbeauftragte auf Vorschlag der Jugendleitung für zwei Jahre einsetzen; danach soll über eine erneute Beauftragung entschieden werden. Die Mädchen sollen an der Personenauswahl nicht beteiligt werden. Ihre Wünsche zur Angebotsentwicklung werden durch direkte Gespräche bei Bedarf aufgenommen. Die Mädchenbeauftragte soll bei passenden Themen im Jugendausschuss eingeladen werden, ohne eigenen Sitz oder Stimmrecht.
 
-**Offene Frage:** Wer darf nach den insgesamt geltenden Ordnungen die Rolle beauftragen? Wie werden Aufgaben, Amtsdauer, Beteiligung an Sitzungen und Vertretung geregelt?
+**Offene Frage – formale Prüfung:** Jugendleitung, Schriftführung und geschäftsführender Vorstand sollen den gewünschten Aufgabenrahmen und die Zuständigkeit für Einsetzung und Verabschiedung anhand der geltenden Vereinsordnungen prüfen. Anschließend ist die Vorlage im Jugendausschuss vorgesehen. Ein entsprechender Gremienbeschluss ist noch nicht dokumentiert; die Antworten und Nacharbeiten stehen im [Begleitdokument](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte-arbeitsgrundlagen.md).
 
 ### Jugendleitung und Verhältnis zur Abteilung Fußball
 

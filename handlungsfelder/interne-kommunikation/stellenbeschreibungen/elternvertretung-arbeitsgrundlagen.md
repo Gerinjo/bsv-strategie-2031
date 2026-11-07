@@ -42,13 +42,15 @@
 
 | Folgeaufgabe | Vorgesehene Beteiligte | Stand |
 | --- | --- | --- |
-| Geschützte Ablage auswählen und Freigabe, konkrete Zugriffsberechtigungen sowie Aufbewahrungs- und Löschregeln ausarbeiten | Elternvertretung, Jugendleitung sowie zuständige Datenschutz- und IT-Funktionen | **Offene Frage:** Ausarbeitung und Freigabe stehen aus. Vorgesehener Zugriff: bearbeitende Elternvertretung; weitere Personen nur bei Bedarf und geklärter Berechtigung. |
+| Geschützte Ablage auswählen und Freigabe, konkrete Zugriffsberechtigungen sowie Aufbewahrungs- und Löschregeln ausarbeiten | Elternvertretung, Mädchenbeauftragte nach Besetzung, Jugendleitung sowie zuständige Datenschutz- und IT-Funktionen | **Offene Frage:** Ausarbeitung und Freigabe stehen aus. Zugriffsrechte sind je Rolle zu klären; vorgesehener Zugriff auf Notizen der Elternvertretung: bearbeitende Elternvertretung, weitere Personen nur bei Bedarf und geklärter Berechtigung. |
 | Aufgabenprofil mit Vereinssatzung und formalen Ausschussregeln abgleichen, einschließlich Abstimmungen, Befangenheit, Vertretung und Zuständigkeit für die Verabschiedung | Jugendleitung, Schriftführung und geschäftsführender Vorstand | **Offene Frage:** Prüfergebnis steht aus. |
 | Konkreten Rahmen für allgemeine öffentliche Auskünfte zur eigenen Rolle vereinbaren | Elternvertretung, Jugendleitung und zuständige Kommunikationsfunktion | **Offene Frage:** Konkrete Vereinbarung steht aus. |
 | Über Rolle und freigegebene Kontaktwege über Trainerteams, Saisoninfos, Elternabende und Vereinswebsite informieren | Koordination durch die Elternvertretung, abgestimmt mit Jugendleitung sowie zuständigen IT- und Kommunikationsfunktionen | **Offene Frage:** Konkrete Angaben später ergänzen; Veröffentlichung erst nach ausdrücklicher Freigabe. |
 | Ergänzenden Aufgabenrahmen zur Prüfung und Verabschiedung vorlegen | Jugendausschuss als vorgesehenes Gremium | **Offene Frage:** Zuständigkeit zunächst bestätigen; Beratung und Beschluss sind noch nicht dokumentiert. |
 
 **Fakt – fallbezogen vereinbartes Vorgehen:** Kosten werden vorher über die Jugendleitung bei der zuständigen Budgetstelle beantragt. Die Jugendleitung klärt je nach Mittelherkunft und geltenden Zuständigkeiten die richtige Budgetstelle. Eine gemeinsam ausgewählte externe, neutrale Person wird nach der gegebenenfalls erforderlichen Kostenfreigabe durch ein unbeteiligtes, dafür befugtes Mitglied des geschäftsführenden Vorstands formell beauftragt.
+
+**Fakt – Ergänzung aus der Fragerunde zur Mädchenbeauftragten vom 07.11.2026:** Für die Mädchenbeauftragte sollen dieselben Schutzwege und ein gemeinsam auszuarbeitendes Ablagekonzept mit je Rolle geklärten Zugriffsrechten gelten. Die [dortigen Arbeitsgrundlagen](maedchenbeauftragte-arbeitsgrundlagen.md) dokumentieren die Antwort auf Frage 19. Ein gemeinsames Konzept begründet keinen automatischen gegenseitigen Zugriff auf vertrauliche Notizen.
 
 ## Bewusst offene Angaben
 

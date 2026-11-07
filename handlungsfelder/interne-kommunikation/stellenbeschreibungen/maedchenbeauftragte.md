@@ -1,99 +1,90 @@
 # Stellen- und Aufgabenbeschreibung: Mädchenbeauftragte
 
-**Vorschlag – Status:** Arbeitsentwurf zur internen Beratung, Stand 07.11.2026. Die im Arbeitsdialog bestätigten Vorstellungen bilden die Entwurfsgrundlage; ein formaler Auftrag oder Gremienbeschluss ist damit nicht dokumentiert. Keine Freigabe zur Veröffentlichung nach außen.
+**Stand:** 07.11.2026
 
-**Fakt – Quelle der Entwurfsgrundlage:** Antworten des Auftraggebers im Arbeitsdialog vom 07.11.2026: Die Mädchenbeauftragte soll Anliegen und Beteiligung der Mädchen stärken, zusätzlich Mädchen für den Fußball gewinnen und Angebote mitentwickeln. Ihr gewünschter Aufgabenbereich umfasst alle Mädchen im Jugendfußball, auch in gemischten Mannschaften, einschließlich des Übergangs zu den Frauen. Diese Angaben beschreiben die gewünschte Ausgestaltung, keine bereits bestehenden Befugnisse.
-
-**Fakt – Dokumentinhalt:** Die am 07.11.2026 vorgelegte Jugendordnung nennt keine eigene Rolle der Mädchenbeauftragten und keinen dafür vorgesehenen Beisitz im Jugendausschuss. § 6 ermöglicht Unterausschüsse für besondere Aufgaben, deren Beschlüsse der Zustimmung des Jugendausschusses bedürfen. **Fakt – Auskunft vom 07.11.2026:** Die Fassung ist nach Wissen des Auftraggebers aktuell. **Offene Frage:** Beschlussdaten nachtragen und zulässige Beauftragung der Rolle anhand der insgesamt geltenden Ordnungen klären; siehe [Quellenauswertung](../../../grundlagen/jugendordnung-auswertung.md).
+**Status:** Auf Grundlage der Fragerunde erarbeiteter Entwurf. Vorgesehen sind die formale Prüfung durch Jugendleitung, Schriftführung und geschäftsführenden Vorstand sowie anschließend die Vorlage im Jugendausschuss. Keine Freigabe zur Veröffentlichung nach außen.
 
 ## I Angaben zur Stelle
 
-| Feld | Entwurf / Klärungsbedarf |
+| Merkmal | Beschreibung |
 | --- | --- |
-| Abteilung und Geltungsbereich | **Fakt – gewünschter Umfang:** Fußball; alle Mädchen im Jugendbereich einschließlich gemischter Mannschaften und Begleitung des Übergangs zu den Frauen. |
-| Stellenbezeichnung | **Fakt – gewünschte Bezeichnung:** Mädchenbeauftragte. |
-| Eingesetzt durch | **Fakt – vorgelegte Jugendordnung:** Kein eigenes Wahl- oder Benennungsverfahren für diese Rolle beschrieben. **Offene Frage:** Welches Organ darf sie beauftragen? Verfahren, Beteiligung der Mädchen und Amtsdauer festlegen. Die zweijährige Wahlperiode der Ausschussmitglieder gilt nicht automatisch für diesen zusätzlichen Auftrag. |
-| Organisatorische Anbindung | **Vorschlag:** Jugendleitung als regelmäßige Ansprechstelle; für den Übergang enge Zusammenarbeit mit der sportlichen Leitung Frauen. **Offene Frage:** Beteiligung an passenden Themen des Jugendausschusses und weiterer Weg bei ungelösten Anliegen; ein eigener Ausschusssitz ist in der vorgelegten Fassung nicht vorgesehen. |
-| Weisungsbefugnis | **Vorschlag:** Anliegen vertreten, Angebote anregen und abgestimmte Vorhaben begleiten. Sportliche Planung, Trainerführung und Aufstellungen verbleiben bei den zuständigen Leitungs- und Trainerrollen. |
-| Vertretung | **Offene Frage:** Stellvertretung, Erreichbarkeit und Übergabe vereinbaren. |
+| Bezeichnung | Mädchenbeauftragte |
+| Geltungsbereich | Alle Mädchen im Jugendfußball, einschließlich gemischter Mannschaften und Begleitung des Übergangs zu den Frauen |
+| Besetzungsstand | Derzeit unbesetzt |
+| Einsetzung | Durch den Jugendausschuss auf Vorschlag der Jugendleitung. Die Mädchen werden an der Personenauswahl nicht beteiligt. |
+| Dauer des Auftrags | Zwei Jahre; danach Entscheidung über eine erneute Beauftragung |
+| Ansprechstelle | Jugendleitung; beim Übergang zu den Frauen zusätzlich die sportliche Leitung Frauen |
+| Mitwirkung im Jugendausschuss | Einladung zu passenden Themen und Einbringen von Anliegen, ohne eigenen Sitz oder Stimmrecht |
+| Erreichbarkeit | Über eine Vereins-E-Mail-Adresse, telefonisch und persönlich |
+| Vertretung | Die Jugendleitung organisiert bei Urlaub, Überlastung oder eigener Beteiligung an einem Konflikt je nach Situation eine geeignete, unbeteiligte Vertretung. |
+| Zeitaufwand | Nach Bedarf, ohne feste Stundenvorgabe. Überlastung frühzeitig ansprechen. |
+| Unterstützung | Zunächst Einführung und Erfahrungsaustausch im Verein |
 
 ## II Aufgaben
 
-### Hauptaufgabe
+### Ziel der Rolle
 
-**Vorschlag – gewünschte Wirkung:** Mädchen erleben den BSV als zugänglich und wertschätzend, können ihre Bedürfnisse einbringen und finden passende Möglichkeiten, Fußball zu beginnen und dauerhaft zu spielen. Auch in gemischten Mannschaften werden ihre Anliegen gehört. Der Übergang in den Frauenfußball bietet eine vorbereitete, freiwillige und passende Anschlussmöglichkeit.
+Mädchen finden einen zugänglichen Einstieg in den Fußball und erleben den BSV als wertschätzenden Ort, an dem ihre Anliegen gehört werden. Sie können passende Angebote mitgestalten und sich im Verein entwickeln. Auch Mädchen in gemischten Mannschaften werden einbezogen. Der Übergang zu den Frauen bietet eine vorbereitete, freiwillige und passende Anschlussmöglichkeit.
 
-**Fakt – gewünschter Kernauftrag laut Arbeitsdialog:** Anliegen und Beteiligung stärken, Mädchen für den Fußball gewinnen und Angebote mitentwickeln; alle Mädchen im Jugendfußball und den Übergang zu den Frauen einbeziehen.
+Zu Beginn stehen die Gewinnung neuer Mädchen für den Fußball und die Erleichterung ihres Einstiegs im Vordergrund.
 
-**Vorschlag – konkrete Aufgaben:**
+### Kernaufgaben
 
-- Als Ansprechperson für Mädchen im Jugendfußball erreichbar sein und ihre Fragen, Wünsche und Verbesserungsideen aufnehmen.
-- Mädchen altersgerecht an der Entwicklung von Angeboten beteiligen, auch diejenigen in gemischten Mannschaften; ihre Sicht unmittelbar einholen und allgemeine Themen bei der Jugendleitung einbringen.
-- Gemeinsam mit Trainerteams Hürden beim Einstieg und im Vereinsalltag erkennen, etwa bei Ansprache, Trainingsmöglichkeiten, Ausstattung oder Zugehörigkeit, und passende Verbesserungen vorschlagen.
-- Mit Jugendleitung und Trainerteams Ideen zur Gewinnung neuer Spielerinnen entwickeln, beispielsweise Schnuppertraining oder Mitbringaktionen; Umsetzung jeweils mit verantwortlichem Team, verfügbarem Platz und freigegebenen Ressourcen abstimmen.
-- Mit Marketing und Kommunikation eine passende Ansprache für vereinbarte Angebote erarbeiten; öffentliche Inhalte über die bestehenden Freigabewege führen.
+- Fragen, Wünsche und Anliegen von Mädchen aufnehmen und ihre Sicht bei Jugendleitung und zuständigen Teams einbringen.
+- Rückmeldungen für die Angebotsentwicklung durch direkte Gespräche bei Bedarf einholen, ohne feste Gesprächsrunden.
+- Gemeinsam mit Jugendleitung und Trainerteams geeignete Möglichkeiten entwickeln, Mädchen für den Fußball zu gewinnen und ihnen den Einstieg zu erleichtern.
 - Neue Spielerinnen beim Ankommen unterstützen und mit den Teams einen verständlichen Einstieg für Mädchen und Familien gestalten.
-- Mit Jugendleitung, sportlicher Leitung Frauen und Trainerteams den Übergang zu den Frauen begleiten: Wünsche der Spielerinnen einbringen, Kennenlernen anregen und Rückmeldungen zu den vereinbarten Übergängen aufnehmen.
-- Gemeinsam mit den Mädchen und zuständigen Teams prüfen, welche Angebote hilfreich sind und wo weiterer Handlungsbedarf besteht; im Repository ausschließlich allgemeine Erkenntnisse ohne Personenbezug dokumentieren.
+- Mit Trainerteams Hürden beim Einstieg und im Vereinsalltag erkennen und passende Verbesserungen anregen, etwa bei Ansprache, Trainingsmöglichkeiten, Ausstattung oder Zugehörigkeit.
+- Für vereinbarte Angebote eine passende Ansprache mit der zuständigen Kommunikationsfunktion abstimmen. Öffentliche Aussagen jeweils vorab freigeben lassen.
+- Den Übergang zu den Frauen mit Jugendleitung, sportlicher Leitung Frauen und zuständigen Trainerteams begleiten. Wünsche der Spielerinnen einbringen, Kennenlernen anregen und Rückmeldungen zu den vereinbarten Anschlussmöglichkeiten aufnehmen.
+- Gemeinsam mit den zuständigen Teams prüfen, welche Angebote hilfreich sind und wo Verbesserungen erforderlich sind.
 
-### Abgrenzung und Ressourcen
+Neue Angebote werden mit den zuständigen Teams vorbereitet. Trainerkapazität, Trainingsflächen, Material und mögliche Kosten werden vor verbindlichen Zusagen beziehungsweise Durchführung abgestimmt.
 
-**Vorschlag:** Die Mädchenbeauftragte bringt die Perspektive der Mädchen in die Zusammenarbeit ein. Jugendleitung und Trainerteams verantworten ihre jeweiligen sportlichen und organisatorischen Aufgaben. Eine zusätzliche sportliche Koordination der Juniorinnen benötigt einen gesondert geklärten Auftrag.
+### Begleitung bei Alltagskonflikten
 
-**Vorschlag:** Für neue Angebote zunächst eine überschaubare Erprobung vereinbaren. Trainerkapazität, Trainingsflächen, Material und mögliche Kosten mit den zuständigen Rollen klären, bevor verbindliche Zusagen erfolgen.
+Die Mädchenbeauftragte hört Mädchen bei Schwierigkeiten mit Trainerteam oder Mitspielenden zu und begleitet sie bei der Klärung. Nach Absprache bezieht sie weitere Unterstützung durch die Elternvertretung oder Jugendleitung ein. Dabei berücksichtigt sie die Sicht und Wünsche des betroffenen Mädchens und stimmt ab, welche Informationen weitergegeben werden dürfen.
 
-**Vorschlag:** Persönliche Anliegen bei der gewöhnlichen Begleitung nur mit ausdrücklicher Freigabe der Betroffenen weitergeben. Für Probleme, mit denen sich Eltern an die Rolle wenden, die Zusammenarbeit mit der [Elternvertretung und ihrem Klärungsweg](elternvertretung.md#klärungsweg-bei-alltagskonflikten) anbieten; die Sicht der Mädchen unmittelbar berücksichtigen. Schutzanliegen über die dafür vereinbarten direkten Kontaktwege behandeln lassen und Grenzen der Vertraulichkeit erklären; eine Übertragung besonderer Schutzaufgaben erfordert einen eigenen geklärten Auftrag. Solche Einzelfälle gehören nicht in dieses Repository.
+### Schutzanliegen und Vertraulichkeit
+
+Für Schutzanliegen gelten dieselben direkten Wege zu den zuständigen Schutz- oder Vertrauenspersonen wie bei der Elternvertretung. Diese koordinieren bei Bedarf die Einbindung externer Fachberatung. Die Mädchenbeauftragte übernimmt keine eigenständige Untersuchung von Schutzfällen.
+
+Vertraulichkeit und ihre Grenzen werden zu Beginn erklärt. Persönliche Anliegen werden bei der gewöhnlichen Begleitung nur mit ausdrücklicher Freigabe weitergegeben. Bei Schutzanliegen wird eine notwendige Weitergabe mit fachlicher Unterstützung geklärt und für die Betroffenen transparent gemacht.
+
+Für notwendige vertrauliche Notizen wird ein gemeinsames Ablagekonzept mit der Elternvertretung und den zuständigen Funktionen ausgearbeitet. Zugriffsberechtigungen werden je Rolle und Bedarf geklärt; ein gemeinsames Konzept begründet keinen automatischen gegenseitigen Zugriff auf Notizen. Die konkrete Ablage sowie Aufbewahrungs- und Löschregeln werden gesondert ausgearbeitet.
 
 ## III Zusammenarbeit im Verein
 
-**Vorschlag:**
-
-| Schnittstelle | Gemeinsamer Auftrag und Abgrenzung |
+| Schnittstelle | Zusammenarbeit |
 | --- | --- |
-| Mädchen und Jugendvertretungen | Wünsche unmittelbar einholen, Beteiligung ermöglichen und Rückmeldungen zu eingebrachten Anliegen geben. |
-| Jugendleitung | Übergreifende Anliegen, neue Angebote, Prioritäten und Ressourcen abstimmen; sportliche Gesamtplanung und Trainerentwicklung bei der Jugendleitung belassen. |
-| Trainerteams der Mädchen- und gemischten Mannschaften | Einstieg, Zugehörigkeit und praktische Verbesserungen besprechen; Trainingsgestaltung und Aufstellungen bei den Teams belassen. |
-| Sportliche Leitung Frauen und zuständige Trainerteams | Übergang gemeinsam vorbereiten, Wünsche der Spielerinnen berücksichtigen und vereinbarte Anschlussmöglichkeiten nachbesprechen. |
-| Elternvertretung und Familien | Allgemeine Anliegen und Einstiegsinformationen abstimmen; die eigenständige Beteiligung der Mädchen sicherstellen. |
-| Marketing und Kommunikation | Ansprache für freigegebene Angebote abstimmen; Zuständigkeiten und Freigaben für Veröffentlichungen beachten. |
-| Zuständige Ressourcen- und Budgetrollen | Bedarf über die Jugendleitung in die vorhandene Planung einbringen; Durchführung neuer Angebote von bestätigten Kapazitäten und Freigaben abhängig machen. |
-| Schutz- und Vertrauenspersonen | **Offene Frage:** Bestehende Funktionen und direkte Kontaktwege bestätigen. **Vorschlag:** Zuständige Ansprechwege zugänglich machen. |
+| Mädchen in Mädchen- und gemischten Mannschaften | Wünsche unmittelbar aufnehmen, bei der Angebotsentwicklung berücksichtigen und Rückmeldungen geben |
+| Jugendleitung | Reguläre Ansprechstelle; Anliegen, Angebote, Prioritäten und benötigte Ressourcen abstimmen |
+| Beteiligte Trainerteams | Einstieg, Angebote und Verbesserungen gemeinsam entwickeln; sportliche Entscheidungen bleiben bei den zuständigen Leitungen und Teams |
+| Sportliche Leitung Frauen und zuständige Trainerteams | Übergang gemeinsam vorbereiten, Wünsche der Spielerinnen berücksichtigen und Anschlussmöglichkeiten nachbesprechen |
+| Elternvertretung und Familien | Einstiegsinformationen und allgemeine Anliegen abstimmen; bei Alltagskonflikten nach Absprache weitere Unterstützung einbeziehen |
+| Jugendausschuss | Bei passenden Themen auf Einladung teilnehmen und Anliegen einbringen, ohne eigenen Sitz oder Stimmrecht |
+| Zuständige Kommunikationsfunktion | Ansprache für Angebote abstimmen und öffentliche Aussagen jeweils vorab über die zuständige Vereinsfunktion freigeben lassen |
+| Schutz- und Vertrauenspersonen | Direkte Ansprechwege bei Schutzanliegen nutzen; Einbindung externer Fachberatung wird dort koordiniert |
 
-## IV Rechte
+Die Abstimmung mit Jugendleitung und den jeweils beteiligten Trainerteams erfolgt einmal im Monat und zusätzlich bei Bedarf. Die sportliche Leitung Frauen wird beim Übergang zu den Frauen einbezogen.
 
-**Vorschlag – nach ausdrücklicher Übertragung:**
+Die Mädchenbeauftragte und die Jugendleitung überprüfen Aufgabenprofil und Zusammenarbeit bei Bedarf, ohne festen Überprüfungstermin. Dabei berücksichtigen sie Rückmeldungen der Mädchen.
+
+## IV Rechte und Befugnisse
+
+Die Mädchenbeauftragte kann im Rahmen des abgestimmten Auftrags:
 
 - Anliegen der Mädchen und Vorschläge zur Angebotsentwicklung bei der Jugendleitung einbringen und Rückmeldungen erhalten.
-- Bei Besprechungen zu Mädchenfußball und Übergängen beteiligt werden; konkrete Teilnahme- und Mitwirkungsrechte noch klären.
-- Für die Aufgabe erforderliche, freigegebene organisatorische Informationen erhalten.
-- Im vereinbarten Rahmen Beteiligungs- und Austauschformate mit Mädchen und zuständigen Teams organisieren.
-- Vorschläge zu Gewinnung, Ausstattung und Ressourcen vorlegen und ungelöste Anliegen an eine vorab vereinbarte weitere Ansprechstelle geben.
+- Auf Einladung an passenden Themen des Jugendausschusses mitwirken.
+- An Abstimmungen zu Mädchenfußball und Übergängen entsprechend ihrer Aufgabe teilnehmen.
+- Für ihre Aufgabe erforderliche, freigegebene organisatorische Informationen erhalten.
+- Angebote zur Gewinnung und Begleitung von Mädchen mitentwickeln und ihre Umsetzung mit den zuständigen Teams abstimmen.
+- Ressourcenbedarf einbringen und nach Absprache passende Unterstützung bei Anliegen hinzuziehen.
 
-**Offene Frage – Befugnisse:** Sitz oder Stimmrecht in einem Gremium, eigenes Budget, Ausgabenbefugnisse und Außenvertretung sind nicht dokumentiert und gesondert zu klären.
+Die Rolle umfasst keine sportlichen Leitungsaufgaben. Sportliche Planung, Trainerführung, Trainingsgestaltung und Aufstellungen verbleiben bei den zuständigen Leitungen und Trainerteams.
 
-### Offene Fragen zur weiteren Ausgestaltung
+Die Mädchenbeauftragte erhält kein eigenes Budget und keine eigenen Ausgabenbefugnisse. Anfallende Kosten werden vorher über die Jugendleitung nach den geltenden Budgetzuständigkeiten freigegeben.
 
-**Offene Fragen:**
+Öffentliche Aussagen werden jeweils vorab durch die zuständige Vereinsfunktion freigegeben.
 
-1. Wie wird die Rolle bestimmt, und wie werden Mädchen dabei beteiligt?
-2. Welche ersten Angebote oder Hindernisse haben aus Sicht der Mädchen Vorrang?
-3. Wie häufig soll der Austausch mit Mädchen, Jugendleitung und Trainerteams stattfinden?
-4. Welche Zeit, Unterstützung und Ressourcen stehen zur Verfügung, und wer übernimmt die Stellvertretung?
-5. Wer übernimmt bei ungelösten Anliegen über die Jugendleitung, und wann wird die erste Erprobung ausgewertet?
-
-**Vorschlag – Zielkonflikt und Alternative:** Die Gewinnung neuer Spielerinnen und die Begleitung bereits aktiver Mädchen beanspruchen dieselbe ehrenamtliche Zeit. Eine erste Erprobung kann sich auf bessere Beteiligung und ein einzelnes Einstiegsangebot konzentrieren. Umfangreichere Aktionen sind eine Option, sobald Begleitung und Trainerkapazitäten gesichert sind.
-
-**Offene Frage – Beschlussnachweis:** Zuständiges Gremium: [offen] · Datum: [offen] · Quelle / Protokoll: [offen].
-
-## Grundlagen und Bezüge
-
-Die Antworten der ergänzenden Fragerunde werden separat unter [Arbeitsgrundlagen und Nacharbeiten](maedchenbeauftragte-arbeitsgrundlagen.md) festgehalten.
-
-**Fakt – verwendete Arbeitsgrundlagen:** Arbeitsdialog und Prüfung der vorgelegten Jugendordnung am 07.11.2026; laut Auskunft des Auftraggebers ist die Fassung nach seinem Wissen aktuell. **Offene Frage:** Beschluss- und Bestätigungsdatum sowie Abgleich mit der aktuell geltenden Vereinssatzung.
-
-- [Jugendordnung: Quellenauswertung und Fundstellen](../../../grundlagen/jugendordnung-auswertung.md)
-- [Schwerpunkt Interne Kommunikation](../../interne-kommunikation.md)
-- [Entwurf Jugendleitung](jugendleitung.md)
-- [Entwurf Elternvertretung](elternvertretung.md)
-- [Initiative Übergang A-Junioren und B-Juniorinnen](../../../initiativen/uebergang-a-junioren-b-juniorinnen.md)
-- [Kommunikationsformate und Rhythmen](../04-kommunikationsformate-und-rhythmen.md)
+Quellen, die Antworten der Fragerunde, offene Nachweise und noch ausstehende Umsetzungsschritte sind im [Begleitdokument zu Arbeitsgrundlagen und Nacharbeiten](maedchenbeauftragte-arbeitsgrundlagen.md) festgehalten.

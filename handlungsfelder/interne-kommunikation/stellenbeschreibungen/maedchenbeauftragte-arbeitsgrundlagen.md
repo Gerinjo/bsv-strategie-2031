@@ -1,6 +1,6 @@
 # Arbeitsgrundlagen und Nacharbeiten: Mädchenbeauftragte
 
-**Fakt – Zweck:** Dieses Begleitdokument hält Quellen, Auskünfte, gewünschte Ausgestaltung und Nacharbeiten zum [Aufgabenprofil der Mädchenbeauftragten](maedchenbeauftragte.md) fest. Die ergänzende Fragerunde läuft; die abschließende Lesefassung wird daraus erstellt.
+**Fakt – Zweck:** Dieses Begleitdokument hält Quellen, Auskünfte, gewünschte Ausgestaltung und Nacharbeiten zum [Aufgabenprofil der Mädchenbeauftragten](maedchenbeauftragte.md) fest. Die ergänzende Fragerunde mit 20 Fragen ist am 07.11.2026 abgeschlossen. Die Antworten bilden die Grundlage der Lesefassung ohne wiederholte Einordnungszusätze. Ein Gremienbeschluss über den Aufgabenrahmen ist damit nicht dokumentiert.
 
 ## Bereits geklärter Aufgabenbereich
 
@@ -29,6 +29,7 @@
 | 17 – Überprüfung des Aufgabenprofils | **Fakt – gewünschte Ausgestaltung laut Arbeitsdialog vom 07.11.2026:** Die Mädchenbeauftragte soll Aufgabenprofil und Zusammenarbeit gemeinsam mit der Jugendleitung bei Bedarf überprüfen, ohne festen Überprüfungstermin. Rückmeldungen der Mädchen sollen dabei berücksichtigt werden. |
 | 18 – Öffentliche Aussagen | **Fakt – gewünschte Ausgestaltung laut Arbeitsdialog vom 07.11.2026:** Öffentliche Aussagen sollen jeweils vorab durch die zuständige Vereinsfunktion freigegeben werden. Ein allgemeiner Rahmen ohne Freigabe der einzelnen öffentlichen Aussage wurde nicht gewählt. |
 | 19 – Schutzwege und Ablagekonzept | **Fakt – gewünschte Ausgestaltung laut Arbeitsdialog vom 07.11.2026:** Die Mädchenbeauftragte soll an dieselben Schutzwege wie die Elternvertretung anknüpfen. Für vertrauliche Notizen soll ein gemeinsames Ablagekonzept mit je Rolle geklärten Zugriffsrechten ausgearbeitet werden. |
+| 20 – Prüf- und Verabschiedungsweg | **Fakt – gewünschte Ausgestaltung laut Arbeitsdialog vom 07.11.2026:** Zunächst Prüfung durch Jugendleitung, Schriftführung und geschäftsführenden Vorstand; danach Vorlage im Jugendausschuss, entsprechend dem vorgesehenen Weg für die Elternvertretung. |
 
 ## Quellen und formaler Rahmen
 
@@ -38,4 +39,56 @@
 
 **Offene Fragen – Nachweise:** Beschlussdatum der Jugendordnung: [offen] · Bestätigungsdatum: [offen] · Formale Beauftragung der Mädchenbeauftragten: [offen] · Vorgesehenes Gremium: Jugendausschuss, formale Zuständigkeit noch zu prüfen · Datum / Protokoll: [offen].
 
-**Vorschlag – weitere Ausarbeitung:** Die Fragerunde klärt die gewünschte Rollenbesetzung und Arbeitsweise. Formale Zuständigkeiten und zusätzliche Befugnisse sind anhand der geltenden Vereinsordnungen zu prüfen. Gewünschte Ausgestaltung wird nicht als bereits bestehender Gremienbeschluss geführt.
+**Fakt – vorgesehene formale Prüfung:** Jugendleitung, Schriftführung und geschäftsführender Vorstand sollen das Aufgabenprofil anhand der geltenden Vereinsordnungen prüfen. Anschließend soll es dem Jugendausschuss vorgelegt werden. Gewünschte Ausgestaltung wird nicht als bereits bestehender Gremienbeschluss geführt; die zweijährige Beauftragung ist ein Aufgabenwunsch und wird nicht aus der Wahlperiode anderer Ausschussmitglieder abgeleitet.
+
+## Gemeinsame Grundlagen mit der Elternvertretung
+
+**Fakt – Auskünfte aus dem Arbeitsdialog zur Elternvertretung vom 07.11.2026:** Im Verein sind Schutz- oder Vertrauenspersonen benannt; ihnen sind passende externe Fachstellen und deren Kontaktwege bekannt. Eine freigegebene geschützte Ablage für vertrauliche Gesprächsnotizen muss noch eingerichtet oder vereinbart werden. Diese Auskünfte sind in den [Arbeitsgrundlagen der Elternvertretung](elternvertretung-arbeitsgrundlagen.md) dokumentiert.
+
+**Fakt – gewünschte Übernahme:** Die Mädchenbeauftragte soll dieselben Schutzwege nutzen. Externe Fachberatung wird bei Bedarf durch die zuständigen Schutz- oder Vertrauenspersonen koordiniert. Für beide Rollen soll ein gemeinsames Ablagekonzept mit je Rolle geklärten Zugriffsrechten entstehen. Daraus ergibt sich kein automatischer gegenseitiger Zugriff auf vertrauliche Notizen.
+
+**Fakt – bestehende Arbeitsgrundlage:** Der [Klärungsweg der Elternvertretung](elternvertretung.md#klärungsweg-bei-alltagskonflikten) dient als Bezug für die nach Absprache einbezogene Unterstützung bei Alltagskonflikten. Die Mädchenbeauftragte hat die Begleitung von Mädchen als Auftrag; eine eigenständige Moderationsaufgabe wurde in Frage 16 nicht gewählt.
+
+## Vorgesehene Folgeaufgaben
+
+**Fakt – Stand:** Die folgende Übersicht unterscheidet die vereinbarten Wege von noch auszuarbeitenden Umsetzungsschritten. Weder eine tatsächliche Beauftragung noch ein Abschluss der Aufgaben wird damit behauptet.
+
+| Folgeaufgabe | Vorgesehene Beteiligte / Weg | Einordnung und Stand |
+| --- | --- | --- |
+| Aufgabenprofil und formale Zuständigkeit anhand der Vereinsordnungen prüfen; anschließend im Jugendausschuss beraten und verabschieden | Jugendleitung, Schriftführung und geschäftsführender Vorstand; danach Jugendausschuss | **Fakt – gewünschter Weg laut Frage 20. Offene Frage:** Prüfergebnis und Beschlussnachweis stehen aus. |
+| Geeignete Person vorschlagen und beauftragen | Vorschlag der Jugendleitung, Einsetzung durch den Jugendausschuss; keine Beteiligung der Mädchen an der Personenauswahl | **Fakt – gewünschter Weg laut Fragen 1–4. Offene Frage:** Die Rolle ist unbesetzt; formale Zuständigkeit und tatsächliche Beauftragung sind zu dokumentieren. |
+| Einführung, Erfahrungsaustausch und Zugang zu den vereinbarten Kontakt- und Schutzwegen vorbereiten | Jugendleitung, künftige Mädchenbeauftragte und zuständige Vereinsfunktionen | **Vorschlag – Umsetzung:** Konkrete Einführung und Freigabe der Kontaktangaben nach Besetzung abstimmen. |
+| Erste Angebote zur Gewinnung neuer Mädchen und zur Erleichterung des Einstiegs entwickeln; Trainerkapazität, Flächen, Material und Kosten abstimmen | Mädchenbeauftragte mit Jugendleitung und beteiligten Trainerteams; Ansprache mit zuständiger Kommunikationsfunktion | **Fakt – Priorität laut Frage 7. Vorschlag – Umsetzung:** Erstes Vorhaben und verfügbare Ressourcen gemeinsam konkretisieren. Es ist noch keine bestimmte Aktion oder Veranstaltung festgelegt. |
+| Gemeinsames Konzept für geschützte Ablage, konkrete Zugriffsberechtigungen sowie Aufbewahrung und Löschung ausarbeiten | Mädchenbeauftragte, Elternvertretung, Jugendleitung sowie zuständige Datenschutz- und IT-Funktionen | **Fakt – gewünschtes Vorgehen laut Frage 19. Offene Frage:** Konkrete Ausarbeitung und Freigabe stehen aus. |
+| Zuständige Freigabestelle und praktischen Weg für öffentliche Aussagen klären | Jugendleitung und zuständige Vereinsfunktion für öffentliche Kommunikation | **Fakt – einzelne Freigaben laut Frage 18 erforderlich. Vorschlag – Umsetzung:** Konkreten Freigabeweg abstimmen. Eine Veröffentlichung des Arbeitsentwurfs ist nicht freigegeben. |
+
+## Bewusst offene Angaben und Nachweise
+
+**Offene Fragen – Platzhalter:**
+
+| Angabe | Stand |
+| --- | --- |
+| Beschlussdatum der Jugendordnung | [offen; gemäß bisheriger Festlegung vorerst zurückgestellt] |
+| Bestätigungsdatum der Jugendordnung | [offen; gemäß bisheriger Festlegung vorerst zurückgestellt] |
+| Formale Zuständigkeit des Jugendausschusses für Einsetzung und Aufgabenrahmen | [Prüfergebnis ergänzen] |
+| Beschluss über den Aufgabenrahmen | [Datum und Protokoll ergänzen] |
+| Tatsächliche Beauftragung der Mädchenbeauftragten | [Datum und Nachweis ergänzen; Rolle derzeit unbesetzt] |
+| Freigegebene Vereins-E-Mail-Adresse | [nach Besetzung beziehungsweise Klärung ergänzen] |
+| Freigegebener telefonischer Kontakt | [nach Besetzung beziehungsweise Klärung ergänzen] |
+
+**Fakt – Begrenzung:** Eine Freigabe zur Veröffentlichung nach außen ist nicht dokumentiert. Personenbezogene oder vertrauliche Einzelfälle werden nicht in diesem Repository dokumentiert.
+
+## Risiken und Abhängigkeiten
+
+**Beobachtung aus dem Aufgabenrahmen:** Spielerinnengewinnung, Begleitung bereits aktiver Mädchen und Übergänge beanspruchen dieselbe ehrenamtliche Zeit. Die Priorität zu Beginn liegt nach Frage 7 bei neuen Mädchen und ihrem Einstieg.
+
+**Vorschlag – Umgang damit:** Erste Vorhaben mit den vorhandenen beziehungsweise ausdrücklich zugesagten Trainerkapazitäten und Trainingsmöglichkeiten abstimmen. Bei Überlastung Umfang und Prioritäten frühzeitig mit der Jugendleitung besprechen. Rückmeldungen der Mädchen zu Angeboten bleiben von der ausgeschlossenen Beteiligung an der Personenauswahl getrennt.
+
+## Weitere Bezüge
+
+**Fakt – verknüpfte Arbeitsgrundlagen:**
+
+- [Schwerpunkt Interne Kommunikation](../../interne-kommunikation.md)
+- [Entwurf Jugendleitung](jugendleitung.md)
+- [Initiative Übergang A-Junioren und B-Juniorinnen](../../../initiativen/uebergang-a-junioren-b-juniorinnen.md)
+- [Kommunikationsformate und Rhythmen](../04-kommunikationsformate-und-rhythmen.md)
