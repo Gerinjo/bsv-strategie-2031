@@ -2,7 +2,7 @@
 
 **Stand:** 07.11.2026
 
-**Status:** Auf Grundlage der Fragerunde erarbeiteter Entwurf. Vorgesehen sind die formale Prüfung durch Jugendleitung, Schriftführung und geschäftsführenden Vorstand sowie anschließend die Vorlage im Jugendausschuss. Keine Freigabe zur Veröffentlichung nach außen.
+**Fassung:** Inhaltlich abgestimmte Endfassung.
 
 ## I Angaben zur Stelle
 
@@ -37,9 +37,9 @@ Interessierte Mädchen finden nach einer Werbeaktion oder Veranstaltung eine kon
 - Maßnahmen zur Nachwuchsgewinnung anstoßen und koordinieren: Tag des Mädchenfußballs, Mädchenevents und Mädchenfußball-Camps mit Jugendleitung und Trainerteams vorbereiten und priorisieren.
 - Neue Spielerinnen beim Ankommen unterstützen und mit den Teams einen verständlichen Einstieg für Mädchen und Familien gestalten.
 - Mit Mädchen, Trainerteams und zuständigen Vereinsfunktionen Hürden beim Einstieg und im Vereinsalltag klären, besonders bei Kabinen, Duschen, Ausstattung, Trainingsmöglichkeiten und Zugehörigkeit; notwendige Verbesserungen einbringen und nachhalten.
-- Als feste Schnittstelle zum Social-Media-Team Themen, Termine und freigegebene Inhalte aus dem Mädchenfußball zuliefern und einen regelmäßigen Redaktionsrhythmus vereinbaren. Öffentliche Aussagen und Beiträge jeweils vorab freigeben lassen.
+- Als feste Schnittstelle zum Social-Media-Team Themen, Termine und freigegebene Inhalte aus dem Mädchenfußball zuliefern. Als Grundrhythmus zwei Beiträge pro Monat und zusätzliche Beiträge zu Aktionen planen. Öffentliche Aussagen und Beiträge jeweils vorab freigeben lassen.
 - Den Übergang zu den Frauen mit Jugendleitung, sportlicher Leitung Frauen und zuständigen Trainerteams begleiten. Wünsche der Spielerinnen einbringen, Kennenlernen anregen und Rückmeldungen zu den vereinbarten Anschlussmöglichkeiten aufnehmen.
-- Gemeinsam mit den zuständigen Teams prüfen, welche Angebote hilfreich sind und wo Verbesserungen erforderlich sind.
+- Gemeinsam mit den zuständigen Teams prüfen, ob interessierte Mädchen zum Schnuppertraining kommen, wieder teilnehmen und einen passenden Platz im Verein finden; daraus Verbesserungen der Angebote ableiten.
 
 Neue Angebote werden mit den zuständigen Teams vorbereitet. Trainerkapazität, Trainingsflächen, Material und mögliche Kosten werden vor verbindlichen Zusagen beziehungsweise Durchführung abgestimmt.
 
@@ -51,10 +51,10 @@ Die Mädchenbeauftragte entwickelt mit Jugendleitung und Trainerteams passende F
 | --- | --- |
 | Tag des Mädchenfußballs | Einen offenen Einstiegstag mit Schnuppertraining und spielerischen Stationen anstoßen; Zielgruppe, Termin und Durchführung mit den Teams abstimmen. Aktuelle Voraussetzungen und Unterstützung für eine offizielle Ausrichtung mit dem zuständigen Landesverband klären. |
 | Mädchenevents | Geeignete Anlässe entwickeln, etwa einen Freundinnen-Mitbringtag, einen offenen Fußball-Spielenachmittag oder ein Kennenlernen mit Spielerinnen aus dem Frauenbereich. Neue und bereits aktive Mädchen zusammenbringen und eine konkrete Trainingsmöglichkeit anbieten. |
-| Regelmäßige Social-Media-Werbung | Mit dem Social-Media-Team einen Themenplan vereinbaren: Einladungen, Einblicke in Angebote, Vorstellung von Teams und Ansprechwegen sowie freigegebene Rückblicke. Aktuelle Einstiegsmöglichkeiten und Kontaktwege nennen; Ankündigungen, Erinnerungen und Nachbereitung von Aktionen abstimmen. |
+| Regelmäßige Social-Media-Werbung | Mit dem Social-Media-Team einen Themenplan mit zwei Beiträgen pro Monat als Grundrhythmus vereinbaren: Einladungen, Einblicke in Angebote, Vorstellung von Teams und Ansprechwegen sowie freigegebene Rückblicke. Zusätzlich passende Ankündigungen, Erinnerungen und Rückblicke zu Aktionen planen. Aktuelle Einstiegsmöglichkeiten und Kontaktwege nennen. |
 | Mädchenfußball-Camp | Mit den Trainerteams ein geeignetes Tages- oder Feriencamp für Einsteigerinnen und bereits aktive Mädchen konzipieren. Zielgruppe, Betreuung, Dauer, Trainingsflächen, Verpflegung, Kabinen und Kosten vor einer Durchführung klären. |
 
-Die lokale Ansprache kann durch Kooperationen mit Schulen, Kitas und weiteren passenden Einrichtungen ergänzt werden. Möglichkeiten und Aufwand werden mit der Jugendleitung abgestimmt.
+Die Mädchenbeauftragte prüft Kooperationsmöglichkeiten mit Schulen, Kitas und weiteren passenden Einrichtungen und initiiert geeignete lokale Kooperationen. Möglichkeiten, Aufwand und weitere Schritte werden mit der Jugendleitung abgestimmt.
 
 Vor jeder Aktion ist geklärt, welche Trainingsgruppe interessierte Mädchen anschließend aufnehmen kann. Mädchen und Familien erhalten verständliche Informationen zu nächstem Termin, Treffpunkt, benötigter Ausrüstung und Ansprechperson. Nach dem Einstieg wird im persönlichen Gespräch nachgefragt, ob Unterstützung fehlt und das Angebot passt.
 
@@ -64,7 +64,7 @@ Die Mädchenbeauftragte klärt im direkten Gespräch bei Bedarf, welche räumlic
 
 Gemeinsam mit Jugendleitung, Trainerteams, den zuständigen Schutzpersonen und den für Räume verantwortlichen Funktionen werden insbesondere folgende Punkte geprüft:
 
-- **Kabinen und Umkleiden:** Welche geschützten Umkleidemöglichkeiten bestehen, auch für einzelne Mädchen in gemischten Mannschaften? Geeignete Räume oder abgestimmte Nutzungszeiten und Zutrittsregeln klären; die Einbindung in Teambesprechungen und das Mannschaftsleben berücksichtigen.
+- **Kabinen und Umkleiden:** Geschützte Umkleidemöglichkeiten prüfen, auch für einzelne Mädchen in gemischten Mannschaften. Geeignete Räume oder abgestimmte Nutzungszeiten und Zutrittsregeln klären; die Einbindung in Teambesprechungen und das Mannschaftsleben berücksichtigen.
 - **Duschen und Privatsphäre:** Geschützte Nutzungsmöglichkeiten und die jeweiligen Wünsche klären. Die Entscheidung, ob und wo geduscht wird, ist freiwillig; ein Duschzwang wird ausgeschlossen.
 - **Toiletten und Hygiene:** Zugänglichkeit, Sauberkeit und bei Bedarf Hygieneartikel sowie geeignete Entsorgungsmöglichkeiten berücksichtigen.
 - **Trainingsbedingungen und Ausstattung:** Geeignete Trainingsmöglichkeiten, passendes Material und passende Ausrüstungsgrößen mit den verantwortlichen Teams abstimmen.
@@ -121,4 +121,4 @@ Die Mädchenbeauftragte erhält kein eigenes Budget und keine eigenen Ausgabenbe
 
 Öffentliche Aussagen werden jeweils vorab durch die zuständige Vereinsfunktion freigegeben.
 
-Quellen, die Antworten der Fragerunde, offene Nachweise und noch ausstehende Umsetzungsschritte sind im [Begleitdokument zu Arbeitsgrundlagen und Nacharbeiten](maedchenbeauftragte-arbeitsgrundlagen.md) festgehalten.
+Quellen, Freigabestand, Nachweise und Umsetzungsschritte sind im [Begleitdokument zu Arbeitsgrundlagen und Nacharbeiten](maedchenbeauftragte-arbeitsgrundlagen.md) festgehalten.
