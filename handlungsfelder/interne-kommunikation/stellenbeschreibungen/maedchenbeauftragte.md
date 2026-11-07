@@ -42,7 +42,7 @@
 
 **Vorschlag:** Für neue Angebote zunächst eine überschaubare Erprobung vereinbaren. Trainerkapazität, Trainingsflächen, Material und mögliche Kosten mit den zuständigen Rollen klären, bevor verbindliche Zusagen erfolgen.
 
-**Vorschlag:** Persönliche Anliegen bei der gewöhnlichen Begleitung nur mit ausdrücklicher Freigabe der Betroffenen weitergeben. Für Probleme, mit denen sich Eltern an die Rolle wenden, die Zusammenarbeit mit der [Elternvertretung und ihrem vorgeschlagenen Klärungsweg](elternvertretung.md#vorgeschlagener-klärungsweg-für-alltagskonflikte) anbieten; die Sicht der Mädchen unmittelbar berücksichtigen. Schutzanliegen über die dafür vereinbarten direkten Kontaktwege behandeln lassen und Grenzen der Vertraulichkeit erklären; eine Übertragung besonderer Schutzaufgaben erfordert einen eigenen geklärten Auftrag. Solche Einzelfälle gehören nicht in dieses Repository.
+**Vorschlag:** Persönliche Anliegen bei der gewöhnlichen Begleitung nur mit ausdrücklicher Freigabe der Betroffenen weitergeben. Für Probleme, mit denen sich Eltern an die Rolle wenden, die Zusammenarbeit mit der [Elternvertretung und ihrem Klärungsweg](elternvertretung.md#klärungsweg-bei-alltagskonflikten) anbieten; die Sicht der Mädchen unmittelbar berücksichtigen. Schutzanliegen über die dafür vereinbarten direkten Kontaktwege behandeln lassen und Grenzen der Vertraulichkeit erklären; eine Übertragung besonderer Schutzaufgaben erfordert einen eigenen geklärten Auftrag. Solche Einzelfälle gehören nicht in dieses Repository.
 
 ## III Zusammenarbeit im Verein
 

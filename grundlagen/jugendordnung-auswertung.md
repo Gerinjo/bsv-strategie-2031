@@ -70,7 +70,7 @@
 
 **Vorschlag – weitere Beratung:** Die folgenden Profile unterscheiden dokumentierte Regelungen von ergänzenden Aufgabenwünschen:
 
-- [Elternvertretung und vorgeschlagener Klärungsweg](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/elternvertretung.md)
+- [Inhaltlich abgestimmtes Aufgabenprofil der Elternvertretung und Klärungsweg](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/elternvertretung.md)
 - [Mädchenbeauftragte](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte.md)
 - [Jugendleitung](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/jugendleitung.md)
 - [Abteilungsleitung Fußball](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/abteilungsleitung-fussball.md)
