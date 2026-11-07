@@ -87,6 +87,8 @@
 
 ## Grundlagen und Bezüge
 
+Die Antworten der ergänzenden Fragerunde werden separat unter [Arbeitsgrundlagen und Nacharbeiten](maedchenbeauftragte-arbeitsgrundlagen.md) festgehalten.
+
 **Fakt – verwendete Arbeitsgrundlagen:** Arbeitsdialog und Prüfung der vorgelegten Jugendordnung am 07.11.2026; laut Auskunft des Auftraggebers ist die Fassung nach seinem Wissen aktuell. **Offene Frage:** Beschluss- und Bestätigungsdatum sowie Abgleich mit der aktuell geltenden Vereinssatzung.
 
 - [Jugendordnung: Quellenauswertung und Fundstellen](../../../grundlagen/jugendordnung-auswertung.md)
