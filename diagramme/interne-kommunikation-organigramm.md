@@ -4,6 +4,8 @@
 
 **Quellen:** Vereinssatzung, Stand 31.01.2023; Website-Organigramm, geprüft am 03.09.2026; Klarstellungen und ergänzende Beschreibungen der Kommunikationspraxis vom 02. und 03.09.2026
 
+**Fakt – Ergänzung vom 03.11.2026:** Laut [Klarstellung zum Rollenauftrag](../handlungsfelder/interne-kommunikation.md#klarstellungen-zu-den-rollen-vom-03112026) koordiniert der Abteilungsleiter Fußball (AF) die sportlichen Leitungen Herren und Frauen, die Leitung der Alten Herren und die Jugendleitung. Die Jugendleitung gehört zur Abteilung Fußball; andere Abteilungen haben aktuell keine separate Jugendleitung. Das nachfolgende historische Website-Modell bleibt als Quellenstand vom September erhalten; die Kommunikationskette berücksichtigt die ergänzte Zuordnung. Ein formaler Einrichtungs- oder Befugnisbeschluss zum AF ist damit nicht nachgewiesen.
+
 ## Was die vorhandenen Grundlagen sagen
 
 Das folgende Bild verbindet zwei unterschiedliche Perspektiven:
@@ -58,35 +60,35 @@ Die gestrichelten Verbindungen kennzeichnen Beziehungen, die nicht als einfache 
 flowchart TD
     GV[Geschäftsführender Vorstand] <-->|große Vorstandsrunde| EV[Erweiterter Vorstand<br/>einschließlich Abteilungsleitungen]
 
-    EV -.->|Vorschlag| AF[Abteilungsleitung Fußball]
+    EV -.->|formale Einordnung offen| AF[Abteilungsleitung Fußball<br/>AF]
     EV --> AG[Abteilungsleitung Gymnastik]
     EV --> AB[Abteilungsleitung Bogensport]
     EV --> AW[Abteilungsleitung Wandern]
 
-    AF --> JL[Jugendleitung]
-    AF --> SH[Sportliche Leitung Herren]
-    AF --> SD[Sportliche Leitung Damen]
-    AF --> AH[Leitung Alte Herren]
+    AF -->|koordiniert| JL[Jugendleitung<br/>Abteilung Fußball]
+    AF -->|koordiniert| SH[Sportliche Leitung Herren]
+    AF -->|koordiniert| SD[Sportliche Leitung Frauen]
+    AF -->|koordiniert| AH[Leitung Alte Herren]
 
     JL --> TJ[Trainerteams Jugend]
     SH --> TH[Trainerteams Herren]
-    SD --> TD[Trainerteams Damen]
+    SD --> TD[Trainerteams Frauen]
     AH --> TAH[Trainerteams AH]
 
     TJ --> MJ[Mannschaftsumfeld Jugend]
     TH --> MH[Mannschaftsumfeld Herren]
-    TD --> MD[Mannschaftsumfeld Damen]
+    TD --> MD[Mannschaftsumfeld Frauen]
     TAH --> MAH[Mannschaftsumfeld AH]
 ```
 
-Die Pfeile von oben nach unten zeigen die Weitergabe von Informationen. Rückmeldungen, Bedarfe und Eskalationen laufen über dieselben Ebenen in umgekehrter Richtung. Die Abteilungsleitung Fußball ist ein Vorschlag und keine bestehende oder beschlossene Funktion. Ihre formale Einordnung und die genaue Besetzung der großen Vorstandsrunde sind noch zu klären.
+Die Pfeile vom AF zu den vier Leitungsrollen zeigen den am 03.11.2026 erläuterten Koordinationsauftrag. Die weiteren Pfeile nach unten zeigen die Weitergabe von Informationen; Rückmeldungen, Bedarfe und Eskalationen laufen in umgekehrter Richtung. Die Jugendleitung gehört zur Abteilung Fußball. Die formale Einrichtung des AF, seine Entscheidungsbefugnisse und die genaue Besetzung der großen Vorstandsrunde sind weiterhin zu dokumentieren.
 
 ## Noch zu vervollständigen
 
 Für ein belastbares Ziel-Organigramm fehlen derzeit insbesondere:
 
 - die Entscheidung über eine Abteilungsleitung Fußball einschließlich Auftrag, Wahl beziehungsweise Benennung und Entscheidungsspielraum,
-- die formale Zuordnung von Jugendleitung, sportlichen Leitungen Herren und Damen sowie der Leitung der Alten Herren,
+- die konkreten Entscheidungs- und Weisungsbefugnisse zwischen AF, Jugendleitung, sportlichen Leitungen Herren und Frauen sowie der Leitung der Alten Herren,
 - die benannten Trainerteams und nachgelagerten Empfängerkreise je sportlichem Bereich,
 - benannte Gesamtverantwortliche und Stellvertretungen je Funktionsbereich,
 - das genaue Verhältnis zwischen Website-Funktionsbereichen und erweitertem Vorstand,

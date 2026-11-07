@@ -29,6 +29,9 @@ Die Strategietagung vom 16. August 2026 hat vier Werte und ein gemeinsames Zukun
 7. [Zusammenhang von Werten, Zukunftsbild und Schwerpunkten](diagramme/strategie-architektur.md)
 8. [Organisations- und Kommunikationsmodell](diagramme/interne-kommunikation-organigramm.md)
 9. [Konzeptbausteine der internen Kommunikation](handlungsfelder/interne-kommunikation.md#vertiefende-konzeptbausteine)
+10. **Vorschlag – Stellenbeschreibungen:** [Abteilungsleitung Fußball](handlungsfelder/interne-kommunikation/stellenbeschreibungen/abteilungsleitung-fussball.md) und [Jugendleitung](handlungsfelder/interne-kommunikation/stellenbeschreibungen/jugendleitung.md); erste Arbeitsentwürfe nach der bereitgestellten Dokumentvorlage
+11. **Vorschlag – Aufgabenprofile:** [Elternvertretung](handlungsfelder/interne-kommunikation/stellenbeschreibungen/elternvertretung.md) und [Mädchenbeauftragte](handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte.md); Arbeitsentwürfe auf Grundlage des Frage-Antwort-Dialogs vom 07.11.2026
+12. **Fakt – Quellenprüfung:** [Auswertung der vorgelegten Jugendordnung](grundlagen/jugendordnung-auswertung.md) mit Regelungen zu Wahl, Elternvertretung und Jugendkasse; laut Auskunft des Auftraggebers nach seinem Wissen aktuell; **offene Frage:** Beschluss- und Bestätigungsdatum
 
 ## Arbeitsbereiche
 
