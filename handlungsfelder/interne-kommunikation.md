@@ -24,49 +24,9 @@ Dieses Dokument bildet den Einstieg in den Schwerpunkt. Ausführliche Inhalte we
 
 Das [Organisations- und Kommunikationsmodell](../diagramme/interne-kommunikation-organigramm.md) stellt die formalen Organe und die vorgeschlagene Kommunikationskette grafisch dar.
 
-### Stellen- und Aufgabenbeschreibungen
+### Bezug zu den Stellenbeschreibungen
 
-**Vorschlag, Stand 03.11.2026:** Erste Arbeitsentwürfe nach der bereitgestellten Vorlage „Stellenbeschreibung BSV.docx“ konkretisieren Aufgaben, Zusammenarbeit, Rechte und offene Zuständigkeiten:
-
-- [Abteilungsleitung Fußball](interne-kommunikation/stellenbeschreibungen/abteilungsleitung-fussball.md) · [Bearbeitbare Word-Fassung](interne-kommunikation/stellenbeschreibungen/abteilungsleitung-fussball.docx)
-- [Jugendleitung](interne-kommunikation/stellenbeschreibungen/jugendleitung.md) · [Bearbeitbare Word-Fassung](interne-kommunikation/stellenbeschreibungen/jugendleitung.docx)
-
-**Fakt – Aufgabenprofile, Stand 07.11.2026:** Zwei weitere Aufgabenprofile folgen demselben Aufbau mit Angaben zur Stelle, Aufgaben, Zusammenarbeit und Rechten. Die Lesefassungen enthalten die mit dem Auftraggeber abgestimmten Inhalte; Quellen, Einordnungen und offene Nachweise werden in separaten Begleitdokumenten geführt. Formale Prüfungen und Gremienbeschlüsse sind weiterhin gesondert nachzuweisen:
-
-- [Elternvertretung](interne-kommunikation/stellenbeschreibungen/elternvertretung.md): gemeinsame Vertretung für den Fußball-Jugendbereich; besonders bei Problemen eines Kindes mit Trainerteam oder Mitspielenden ansprechbar sein, Gespräche begleiten und bei Bedarf moderieren. Mithilfe bleibt freiwillig.
-- [Mädchenbeauftragte](interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte.md): Anliegen und Beteiligung aller Mädchen im Jugendfußball stärken; Nachwuchsgewinnung mit Tag des Mädchenfußballs, Mädchenevents, Camp und regelmäßiger Social-Media-Werbung koordinieren; passende Bedingungen im Vereinsalltag einschließlich Kabinen und Duschen klären und den Übergang zu den Frauen begleiten.
-
-**Fakt – Arbeitsstand Elternvertretung vom 07.11.2026:** Die Fragerunde ist abgeschlossen; der Auftraggeber hat die Vorschläge inhaltlich angenommen. Das Aufgabenprofil liegt als Lesefassung ohne wiederholte Einordnungszusätze vor. Quellen, Auskünfte, offene Nachweise und Folgeaufgaben stehen separat unter [Arbeitsgrundlagen und Nacharbeiten](interne-kommunikation/stellenbeschreibungen/elternvertretung-arbeitsgrundlagen.md). Fehlende Quellenangaben bleiben auf Wunsch als sichtbare Platzhalter stehen; freigegebene Kontaktangaben werden später ergänzt. Ein Gremienbeschluss ist noch nicht dokumentiert; vorgesehen ist der Jugendausschuss nach Prüfung seiner Zuständigkeit.
-
-**Fakt – Arbeitsstand Mädchenbeauftragte vom 07.11.2026:** Die Fragerunde mit 20 Fragen ist abgeschlossen; der Auftraggeber hat auch die ergänzenden Vorschläge zu Nachwuchsgewinnung und Vereinsalltag angenommen. Das Aufgabenprofil liegt als inhaltlich abgestimmte Endfassung ohne temporäre Einordnungszusätze vor. Quellen, Auskünfte, offene Nachweise und Folgeaufgaben stehen separat unter [Arbeitsgrundlagen und Nacharbeiten](interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte-arbeitsgrundlagen.md). Die Rolle ist laut Auskunft derzeit unbesetzt. Vorgesehen sind eine zweijährige Beauftragung durch den Jugendausschuss auf Vorschlag der Jugendleitung, ohne Beteiligung der Mädchen an der Personenauswahl, sowie Einladungen zu passenden Ausschussthemen ohne eigenen Sitz oder Stimmrecht. Formale Prüfung und Gremienbeschluss sind noch nicht dokumentiert.
-
-**Offene Frage:** Formale Einrichtung, Besetzung und Entscheidungsbefugnisse der Abteilungsleitung Fußball sind noch zu dokumentieren. Die Entwürfe begründen keine neuen Befugnisse.
-
-**Fakt – Fassungsstand:** Die verlinkten Word-Fassungen enthalten den Stand vom 03.11.2026. Die Ergänzungen zur Jugendordnung vom 07.11.2026 sind in den Markdown-Fassungen dokumentiert und noch nicht in die Word-Fassungen übernommen.
-
-### Klarstellungen zu den Rollen vom 03.11.2026
-
-**Fakt – Quelle:** Klarstellung des Auftraggebers im Arbeitsdialog vom 03.11.2026; Grundlage für die Überarbeitung der beiden Stellenbeschreibungen.
-
-- **Fakt – Rollenauftrag:** Der Abteilungsleiter Fußball, kurz **AF**, koordiniert die sportlichen Leitungen Herren und Frauen, die Leitung der Alten Herren und die Jugendleitung.
-- **Fakt – Saison- und Budgetplanung:** Der AF erstellt die Planung für die laufende und die kommende Saison, stimmt den Bedarf mit seinen direkt unterstellten Leitungsrollen ab und richtet die gebündelte Budgetanfrage der Abteilung an die Geschäftsführung.
-- **Fakt – Budgetverantwortung:** Der AF verantwortet die korrekte Verwendung und Einhaltung des bewilligten Budgets der Abteilung Fußball. Budgetbedarf und bewilligtes Budget sind zu unterscheiden.
-- **Fakt – Zuordnung:** Die Jugendleitung gehört zur Abteilung Fußball. In den anderen Abteilungen besteht aktuell keine separate Jugendleitung.
-- **Fakt – Aufgaben der Jugendleitung:** Die Jugendleitung betreibt intensiv die Zukunftsplanung, sucht fortlaufend Trainerinnen und Trainer für die laufende und die kommende Saison und arbeitet kontinuierlich an deren Qualifikation und Weiterbildung.
-- **Fakt – Unterstützung im Spielbetrieb:** Die Jugendleitung unterstützt bei der Durchführung des Jugendspielbetriebs, besonders in der G-, F- und E-Jugend.
-- **Beobachtung laut Klarstellung:** Die Trainerinnen und Trainer dieser Altersbereiche sind häufig neu und noch unerfahren; deshalb ist dort eine besonders intensive Begleitung erforderlich.
-
-**Offene Frage:** Die formalen Wahl-, Organ- und Entscheidungsrechte sind weiterhin anhand der geltenden Satzung und Jugendordnung zu konkretisieren. Konkrete Budgetbeträge, Ausgabenbefugnisse und Freigabewege sind noch festzulegen. Die Klarstellung dokumentiert Aufgaben und organisatorische Zuordnung, keinen neuen Gremienbeschluss.
-
-### Quellenprüfung der vorgelegten Jugendordnung vom 07.11.2026
-
-**Fakt – Dokumentinhalt:** Die [vorgelegte Jugendordnung und ihre Auswertung](../grundlagen/jugendordnung-auswertung.md) klären Wahl und zweijährige Amtszeit der Jugendleitung sowie der weiteren Ausschussmitglieder. Die Elternvertretung ist als ein Beisitz im Jugendausschuss vorgesehen; gewählt wird durch die Jugendversammlung. Eine Mädchenbeauftragte ist in dieser Fassung nicht ausdrücklich genannt.
-
-**Fakt – ergänzter Aufgabenwunsch:** Im Arbeitsdialog vom 07.11.2026 wurde die Elternvertretung besonders als Ansprechperson für Eltern in problematischen Situationen beschrieben, etwa bei Problemen eines Kindes mit Trainerteam oder Mitspielenden. Sie soll auf Wunsch Gespräche begleiten und bei Bedarf moderieren. Das [inhaltlich abgestimmte Aufgabenprofil](interne-kommunikation/stellenbeschreibungen/elternvertretung.md) enthält dafür einen Klärungsweg.
-
-**Fakt – Auskunft vom 07.11.2026:** Die vorgelegte Jugendordnung ist nach Wissen des Auftraggebers aktuell; das Beschluss- beziehungsweise Bestätigungsdatum ist ihm unbekannt.
-
-**Offene Frage:** Beschluss- und Bestätigungsdatum der undatierten Jugendordnung nachtragen. Ihre Regelungen zur gesamten Vereinsjugend und zur eigenverantwortlichen Mittelverwendung sind mit der beschriebenen Zuordnung zum Fußball und dem Budgetauftrag des AF abzugleichen. Die Auskunft ist keine Änderung der Ordnung und kein neuer Gremienbeschluss.
+Die [Stellen- und Aufgabenbeschreibungen](../stellenbeschreibungen/README.md) werden als eigenständiger Arbeitsbereich parallel zu den Handlungsfeldern gepflegt. Sie liefern die Rollen, Ansprechstellen und Zuständigkeiten, an denen die Kommunikationswege dieses Schwerpunkts anknüpfen.
 
 ## Strategische Begründung
 

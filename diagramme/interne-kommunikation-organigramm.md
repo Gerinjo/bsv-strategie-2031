@@ -4,7 +4,7 @@
 
 **Quellen:** Vereinssatzung, Stand 31.01.2023; Website-Organigramm, geprüft am 03.09.2026; Klarstellungen und ergänzende Beschreibungen der Kommunikationspraxis vom 02. und 03.09.2026
 
-**Fakt – Ergänzung vom 03.11.2026:** Laut [Klarstellung zum Rollenauftrag](../handlungsfelder/interne-kommunikation.md#klarstellungen-zu-den-rollen-vom-03112026) koordiniert der Abteilungsleiter Fußball (AF) die sportlichen Leitungen Herren und Frauen, die Leitung der Alten Herren und die Jugendleitung. Die Jugendleitung gehört zur Abteilung Fußball; andere Abteilungen haben aktuell keine separate Jugendleitung. Das nachfolgende historische Website-Modell bleibt als Quellenstand vom September erhalten; die Kommunikationskette berücksichtigt die ergänzte Zuordnung. Ein formaler Einrichtungs- oder Befugnisbeschluss zum AF ist damit nicht nachgewiesen.
+**Fakt – Ergänzung vom 03.11.2026:** Laut [Klarstellung zum Rollenauftrag](../stellenbeschreibungen/README.md#klarstellungen-zu-den-rollen-vom-03112026) koordiniert der Abteilungsleiter Fußball (AF) die sportlichen Leitungen Herren und Frauen, die Leitung der Alten Herren und die Jugendleitung. Die Jugendleitung gehört zur Abteilung Fußball; andere Abteilungen haben aktuell keine separate Jugendleitung. Das nachfolgende historische Website-Modell bleibt als Quellenstand vom September erhalten; die Kommunikationskette berücksichtigt die ergänzte Zuordnung. Ein formaler Einrichtungs- oder Befugnisbeschluss zum AF ist damit nicht nachgewiesen.
 
 ## Was die vorhandenen Grundlagen sagen
 

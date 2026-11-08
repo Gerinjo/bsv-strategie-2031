@@ -4,19 +4,21 @@
 
 **Fakt – inhaltliche Zustimmung:** Die Fragerunde wurde am 07.11.2026 abgeschlossen. Der Auftraggeber hat anschließend die Vorschläge zum Aufgabenprofil angenommen. Dies dokumentiert seine inhaltliche Zustimmung zum Entwurf.
 
+**Fakt – Redaktionsstand vom 07.11.2026:** Auf Auftrag des Nutzers liegt das Aufgabenprofil nun wie die übrigen drei Stellenbeschreibungen als redaktionelle Endfassung mit aktuellem PDF vor. Einordnungszusätze und offene Nachweise werden ausschließlich in den Begleitunterlagen geführt. Die redaktionelle Endfassung dokumentiert keinen zusätzlichen Gremienbeschluss.
+
 **Offene Frage – formale Verabschiedung:** Ein Beschluss des zuständigen Vereinsgremiums über den ergänzenden Aufgabenrahmen ist noch nicht dokumentiert. Die inhaltliche Zustimmung des Auftraggebers wird nicht als Gremienbeschluss geführt. Eine Freigabe zur Veröffentlichung nach außen liegt nicht vor.
 
 ## Quellen und ihre Aussagekraft
 
 | Einordnung | Quelle | Verwendung und Grenze |
 | --- | --- | --- |
-| **Fakt – Dokumentinhalt** | [Vorgelegte Jugendordnung als unveränderte PDF-Kopie](../../../grundlagen/originale/bsv-jugendordnung-undatiert.pdf), §§ 5–6 | Jugendversammlung als Wahlorgan, zweijährige Amtszeit und Verbleib bis zur Neuwahl, Wählbarkeit von Vereinsmitgliedern sowie ein Elternvertretungs-Beisitz im Jugendausschuss. Beschluss- und Bestätigungsdatum sind nicht belegt. |
+| **Fakt – Dokumentinhalt** | [Vorgelegte Jugendordnung als unveränderte PDF-Kopie](../grundlagen/originale/bsv-jugendordnung-undatiert.pdf), §§ 5–6 | Jugendversammlung als Wahlorgan, zweijährige Amtszeit und Verbleib bis zur Neuwahl, Wählbarkeit von Vereinsmitgliedern sowie ein Elternvertretungs-Beisitz im Jugendausschuss. Beschluss- und Bestätigungsdatum sind nicht belegt. |
 | **Fakt – Auskunft des Auftraggebers** | Arbeitsdialog und Fragerunde vom 07.11.2026 | Bestehender Stand laut Auskunft sowie gewünschte Ausgestaltung; keine unabhängig geprüften Wahl- oder Gremienprotokolle. |
 | **Fakt – ergänzende Fachquelle** | [dsj-Handlungsleitfaden Safe Sport, Kapitel 3](https://static-dsj-de.s3.amazonaws.com/Publikationen/PDF/SafeSport_Handlungsleitfaden_0626_druck_low.pdf) | Fachliche Grundlage für den gesonderten Schutzweg, die Einbindung externer Fachberatung, sorgfältiges Zuhören und Grenzen der Vertraulichkeit; begründet keine bereits bestehende Zuständigkeit im BSV. |
 
 **Fakt – Auskunft zur Aktualität:** Nach Wissen des Auftraggebers ist die vorgelegte Jugendordnung aktuell. Ihr Beschluss- beziehungsweise Bestätigungsdatum ist ihm unbekannt. Das technische PDF-Erstellungsdatum belegt kein Inkrafttreten.
 
-**Fakt – weiterführende Auswertung:** Die [Quellenprüfung der Jugendordnung](../../../grundlagen/jugendordnung-auswertung.md) enthält die Fundstellen und den Abstimmungsbedarf zwischen vereinsweitem Jugendauftrag, operativer Zuordnung zum Fußball und Jugendfinanzen.
+**Fakt – weiterführende Auswertung:** Die [Quellenprüfung der Jugendordnung](../grundlagen/jugendordnung-auswertung.md) enthält die Fundstellen und den Abstimmungsbedarf zwischen vereinsweitem Jugendauftrag, operativer Zuordnung zum Fußball und Jugendfinanzen.
 
 ## Bestehender Stand laut Auskunft
 
@@ -75,7 +77,7 @@
 
 **Fakt – verknüpfte Arbeitsgrundlagen:**
 
-- [Schwerpunkt Interne Kommunikation](../../interne-kommunikation.md)
-- [Entwurf Jugendleitung](jugendleitung.md)
-- [Entwurf Mädchenbeauftragte](maedchenbeauftragte.md)
-- [Kommunikationsformate und Rhythmen](../04-kommunikationsformate-und-rhythmen.md)
+- [Schwerpunkt Interne Kommunikation](../handlungsfelder/interne-kommunikation.md)
+- [Jugendleitung](jugendleitung.md)
+- [Mädchenbeauftragte](maedchenbeauftragte.md)
+- [Kommunikationsformate und Rhythmen](../handlungsfelder/interne-kommunikation/04-kommunikationsformate-und-rhythmen.md)

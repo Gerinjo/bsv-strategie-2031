@@ -2,7 +2,7 @@
 
 **Stand:** 07.11.2026
 
-**Status:** Mit dem Auftraggeber inhaltlich abgestimmter Entwurf. Die formale Prüfung sowie die Beratung und Verabschiedung im Jugendausschuss sind noch ausstehend. Keine Freigabe zur Veröffentlichung nach außen.
+**Fassung:** Inhaltlich abgestimmte Endfassung.
 
 ## I Angaben zur Stelle
 
@@ -114,4 +114,4 @@ Entscheidungen zu Training, Aufstellungen und Personal liegen bei den dafür zus
 
 Die Elternvertretung erhält kein eigenes Budget und keine eigenen Ausgabenbefugnisse. Anfallende Kosten, etwa für Fortbildungen oder externe Konfliktklärung, werden vorab über die Jugendleitung bei der zuständigen Budgetstelle zur Freigabe beantragt. Die Jugendleitung klärt je nach Mittelherkunft und geltenden Zuständigkeiten die richtige Budgetstelle.
 
-Quellen, Nachweise und die noch ausstehenden Umsetzungsschritte sind im [Begleitdokument zu Arbeitsgrundlagen und Nacharbeiten](elternvertretung-arbeitsgrundlagen.md) festgehalten.
+Quellen, Freigabestand, Nachweise und Umsetzungsschritte sind im [Begleitdokument zu Arbeitsgrundlagen und Nacharbeiten](elternvertretung-arbeitsgrundlagen.md) festgehalten.

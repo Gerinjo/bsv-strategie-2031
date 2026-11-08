@@ -29,13 +29,15 @@ Die Strategietagung vom 16. August 2026 hat vier Werte und ein gemeinsames Zukun
 7. [Zusammenhang von Werten, Zukunftsbild und Schwerpunkten](diagramme/strategie-architektur.md)
 8. [Organisations- und Kommunikationsmodell](diagramme/interne-kommunikation-organigramm.md)
 9. [Konzeptbausteine der internen Kommunikation](handlungsfelder/interne-kommunikation.md#vertiefende-konzeptbausteine)
-10. **Vorschlag – Stellenbeschreibungen:** [Abteilungsleitung Fußball](handlungsfelder/interne-kommunikation/stellenbeschreibungen/abteilungsleitung-fussball.md) und [Jugendleitung](handlungsfelder/interne-kommunikation/stellenbeschreibungen/jugendleitung.md); erste Arbeitsentwürfe nach der bereitgestellten Dokumentvorlage
-11. **Fakt – Aufgabenprofile:** [Elternvertretung](handlungsfelder/interne-kommunikation/stellenbeschreibungen/elternvertretung.md) als abgestimmte Lesefassung und [Mädchenbeauftragte](handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte.md) als inhaltlich abgestimmte Endfassung; separate Arbeitsgrundlagen und Nacharbeiten zur [Elternvertretung](handlungsfelder/interne-kommunikation/stellenbeschreibungen/elternvertretung-arbeitsgrundlagen.md) und zur [Mädchenbeauftragten](handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte-arbeitsgrundlagen.md)
+10. **Fakt – Eigenständiger Arbeitsbereich:** [Stellen- und Aufgabenbeschreibungen](stellenbeschreibungen/README.md), parallel zu den Handlungsfeldern; Übersicht aller Rollen und Dokumentfassungen
+11. **Fakt – Redaktionelle Endfassungen:** [Abteilungsleitung Fußball](stellenbeschreibungen/abteilungsleitung-fussball.md), [Jugendleitung](stellenbeschreibungen/jugendleitung.md), [stellvertretende Jugendleitung](stellenbeschreibungen/stellvertretende-jugendleitung.md), [Elternvertretung](stellenbeschreibungen/elternvertretung.md) und [Mädchenbeauftragte](stellenbeschreibungen/maedchenbeauftragte.md); PDFs und separate Begleitdokumente sind in der [Übersicht](stellenbeschreibungen/README.md) verlinkt. DOCX wird auf Anforderung erstellt oder aktualisiert.
 12. **Fakt – Quellenprüfung:** [Auswertung der vorgelegten Jugendordnung](grundlagen/jugendordnung-auswertung.md) mit Regelungen zu Wahl, Elternvertretung und Jugendkasse; laut Auskunft des Auftraggebers nach seinem Wissen aktuell; **offene Frage:** Beschluss- und Bestätigungsdatum
+13. **Fakt – Stellenbeschreibungen als PDF, Export vom 07.11.2026:** [Abteilungsleitung Fußball](stellenbeschreibungen/abteilungsleitung-fussball.pdf), [Jugendleitung](stellenbeschreibungen/jugendleitung.pdf), [stellvertretende Jugendleitung](stellenbeschreibungen/stellvertretende-jugendleitung.pdf), [Elternvertretung](stellenbeschreibungen/elternvertretung.pdf) und [Mädchenbeauftragte](stellenbeschreibungen/maedchenbeauftragte.pdf); aus den aktuellen Markdown-Fassungen erstellt
 
 ## Arbeitsbereiche
 
 - [Handlungsfelder](handlungsfelder/README.md): die fünf vereinbarten Schwerpunkte mit Befunden, Aufträgen und offenen Fragen
+- [Stellenbeschreibungen](stellenbeschreibungen/README.md): eigenständiger Arbeitsbereich für Aufgaben, Zusammenarbeit und Befugnisse der Vereinsrollen
 - [Initiativen](initiativen/README.md): mögliche und beschlossene Umsetzungsvorhaben
 - [Entscheidungen](entscheidungen/README.md): nachvollziehbare strategische Beschlüsse
 - [Protokolle](protokolle/README.md): Workshops, Interviews und Sitzungen

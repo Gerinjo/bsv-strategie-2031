@@ -12,6 +12,8 @@ Die Strategietagung vom 16.08.2026 hat erste Themenbündel für die weitere Arbe
 
 Die Organisationsstruktur ist kein Bestandteil des Titels eines Schwerpunktfelds. Sie wird als Grundlage und Arbeitsgegenstand der internen Kommunikation behandelt. Sport und Jugend sowie Gemeinschaft und Vereinskultur bleiben wichtige Bestandteile des [Zukunftsbilds 2031](../strategie/02-leitbild-2031.md), sind derzeit aber keine eigenen Schwerpunktfelder.
 
+**Fakt – ergänzende Einordnung vom 07.11.2026:** Die [Stellen- und Aufgabenbeschreibungen](../stellenbeschreibungen/README.md) werden parallel zu den Handlungsfeldern als eigenständiger Arbeitsbereich gepflegt. Die Handlungsfelder beziehen sich bei Rollen und Zuständigkeiten auf diese gemeinsame Grundlage.
+
 ## Mitarbeitende und Ansprechpersonen
 
 | Schwerpunkt | Mitarbeitende laut bisherigem Arbeitsstand |

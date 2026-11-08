@@ -48,7 +48,7 @@
 
 **Fakt – gewünschte Ausgestaltung laut ergänzender Fragerunde vom 07.11.2026:** Der Jugendausschuss soll die Mädchenbeauftragte auf Vorschlag der Jugendleitung für zwei Jahre einsetzen; danach soll über eine erneute Beauftragung entschieden werden. Die Mädchen sollen an der Personenauswahl nicht beteiligt werden. Ihre Wünsche zur Angebotsentwicklung werden durch direkte Gespräche bei Bedarf aufgenommen. Die Mädchenbeauftragte soll bei passenden Themen im Jugendausschuss eingeladen werden, ohne eigenen Sitz oder Stimmrecht.
 
-**Offene Frage – formale Prüfung:** Jugendleitung, Schriftführung und geschäftsführender Vorstand sollen den gewünschten Aufgabenrahmen und die Zuständigkeit für Einsetzung und Verabschiedung anhand der geltenden Vereinsordnungen prüfen. Anschließend ist die Vorlage im Jugendausschuss vorgesehen. Ein entsprechender Gremienbeschluss ist noch nicht dokumentiert; die Antworten und Nacharbeiten stehen im [Begleitdokument](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte-arbeitsgrundlagen.md).
+**Offene Frage – formale Prüfung:** Jugendleitung, Schriftführung und geschäftsführender Vorstand sollen den gewünschten Aufgabenrahmen und die Zuständigkeit für Einsetzung und Verabschiedung anhand der geltenden Vereinsordnungen prüfen. Anschließend ist die Vorlage im Jugendausschuss vorgesehen. Ein entsprechender Gremienbeschluss ist noch nicht dokumentiert; die Antworten und Nacharbeiten stehen im [Begleitdokument](../stellenbeschreibungen/maedchenbeauftragte-arbeitsgrundlagen.md).
 
 ### Jugendleitung und Verhältnis zur Abteilung Fußball
 
@@ -66,11 +66,12 @@
 4. Wie ist der in § 4 genannte Jugendvorstand gegenüber dem Jugendausschuss zusammengesetzt und abgegrenzt? Eine gesonderte Zusammensetzung ist in der vorgelegten Fassung nicht beschrieben.
 5. Welche zusätzlichen Verfahrensregeln gelten für Abstimmungen, Befangenheit und Vertretung im Jugendausschuss? Ein besonderes Stimmrecht der Elternvertretung ist nicht gesondert beschrieben; ergänzende Regelungen sind nach § 8 zu prüfen.
 
-## Verknüpfte Arbeitsentwürfe
+## Verknüpfte Stellenbeschreibungen
 
-**Vorschlag – weitere Beratung:** Die folgenden Profile unterscheiden dokumentierte Regelungen von ergänzenden Aufgabenwünschen:
+**Fakt – Dokumentstruktur:** Die folgenden Stellenbeschreibungen liegen als redaktionelle Endfassungen vor. Quellen, Einordnungen, offene Nachweise und Nacharbeiten stehen jeweils in separaten Begleitdokumenten. Formale Beschlüsse werden dort gesondert nachgewiesen:
 
-- [Inhaltlich abgestimmtes Aufgabenprofil der Elternvertretung und Klärungsweg](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/elternvertretung.md)
-- [Mädchenbeauftragte](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/maedchenbeauftragte.md)
-- [Jugendleitung](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/jugendleitung.md)
-- [Abteilungsleitung Fußball](../handlungsfelder/interne-kommunikation/stellenbeschreibungen/abteilungsleitung-fussball.md)
+- [Inhaltlich abgestimmtes Aufgabenprofil der Elternvertretung und Klärungsweg](../stellenbeschreibungen/elternvertretung.md)
+- [Mädchenbeauftragte](../stellenbeschreibungen/maedchenbeauftragte.md)
+- [Jugendleitung](../stellenbeschreibungen/jugendleitung.md)
+- [Stellvertretende Jugendleitung](../stellenbeschreibungen/stellvertretende-jugendleitung.md)
+- [Abteilungsleitung Fußball](../stellenbeschreibungen/abteilungsleitung-fussball.md)

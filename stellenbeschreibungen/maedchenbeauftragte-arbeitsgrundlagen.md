@@ -66,7 +66,7 @@
 
 ## Quellen und formaler Rahmen
 
-**Fakt – Dokumentinhalt:** Die [vorgelegte Jugendordnung](../../../grundlagen/originale/bsv-jugendordnung-undatiert.pdf) nennt keine eigene Rolle der Mädchenbeauftragten und keinen dafür vorgesehenen Ausschusssitz. § 6 ermöglicht Unterausschüsse für besondere Aufgaben; daraus folgt kein automatischer eigener Ausschusssitz für diese Rolle. Die [Quellenauswertung](../../../grundlagen/jugendordnung-auswertung.md) dokumentiert Fundstellen und offene Abgrenzungen.
+**Fakt – Dokumentinhalt:** Die [vorgelegte Jugendordnung](../grundlagen/originale/bsv-jugendordnung-undatiert.pdf) nennt keine eigene Rolle der Mädchenbeauftragten und keinen dafür vorgesehenen Ausschusssitz. § 6 ermöglicht Unterausschüsse für besondere Aufgaben; daraus folgt kein automatischer eigener Ausschusssitz für diese Rolle. Die [Quellenauswertung](../grundlagen/jugendordnung-auswertung.md) dokumentiert Fundstellen und offene Abgrenzungen.
 
 **Fakt – Auskunft zur Quelle:** Nach Wissen des Auftraggebers ist die vorgelegte Jugendordnung aktuell. Die fehlenden Beschluss- und Bestätigungsdaten bleiben gemäß der bereits getroffenen Festlegung als sichtbare Platzhalter offen.
 
@@ -123,7 +123,7 @@
 
 **Fakt – verknüpfte Arbeitsgrundlagen:**
 
-- [Schwerpunkt Interne Kommunikation](../../interne-kommunikation.md)
-- [Entwurf Jugendleitung](jugendleitung.md)
-- [Initiative Übergang A-Junioren und B-Juniorinnen](../../../initiativen/uebergang-a-junioren-b-juniorinnen.md)
-- [Kommunikationsformate und Rhythmen](../04-kommunikationsformate-und-rhythmen.md)
+- [Schwerpunkt Interne Kommunikation](../handlungsfelder/interne-kommunikation.md)
+- [Jugendleitung](jugendleitung.md)
+- [Initiative Übergang A-Junioren und B-Juniorinnen](../initiativen/uebergang-a-junioren-b-juniorinnen.md)
+- [Kommunikationsformate und Rhythmen](../handlungsfelder/interne-kommunikation/04-kommunikationsformate-und-rhythmen.md)
