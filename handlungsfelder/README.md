@@ -45,6 +45,10 @@ Für ein neues Handlungsfeld sollte ein eigenes Markdown-Dokument mit folgender 
 7. strategische Fragen
 8. mögliche Ziele und Initiativen
 
+## PDFs zur internen Kommunikation
+
+**Fakt – Export vom 08.11.2026:** Für die Besprechung liegen eine [zusammenhängende Besprechungsmappe](interne-kommunikation/pdf/interne-kommunikation-besprechungsmappe.pdf) und [sechs einzelne PDFs](interne-kommunikation/pdf/README.md) der bestehenden Arbeitsunterlagen vor. Stellenbeschreibungen werden weiterhin separat geführt.
+
 ## Quelle
 
 [Ergebnisprotokoll der Strategietagung vom 16.08.2026](../protokolle/2026-08-16-strategietagung.md)

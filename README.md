@@ -36,6 +36,8 @@ Die Strategietagung vom 16. August 2026 hat vier Werte und ein gemeinsames Zukun
 
 ## Arbeitsbereiche
 
+**Fakt – Besprechungsunterlagen vom 08.11.2026:** [Interne Kommunikation als zusammenhängende PDF-Mappe](handlungsfelder/interne-kommunikation/pdf/interne-kommunikation-besprechungsmappe.pdf) mit Inhaltsverzeichnis und Diagrammen; [Übersicht der sechs Einzel-PDFs](handlungsfelder/interne-kommunikation/pdf/README.md).
+
 - [Handlungsfelder](handlungsfelder/README.md): die fünf vereinbarten Schwerpunkte mit Befunden, Aufträgen und offenen Fragen
 - [Stellenbeschreibungen](stellenbeschreibungen/README.md): eigenständiger Arbeitsbereich für Aufgaben, Zusammenarbeit und Befugnisse der Vereinsrollen
 - [Initiativen](initiativen/README.md): mögliche und beschlossene Umsetzungsvorhaben
